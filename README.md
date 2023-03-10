@@ -1,6 +1,9 @@
 ## About
 IC2 Classic Faithful x32 Resource Pack repository
 
+## Status
+Work in progress
+
 ## Note
 The first upload is made using old-style textures for ores/ingots/dust/blocks etc.
 
