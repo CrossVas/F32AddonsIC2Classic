@@ -1,0 +1,14 @@
+{
+	"active_down": "ic2:block/machine/hv/colossal_compressor/active_east",
+	"active_east": "ic2:block/machine/hv/colossal_extractor/active_east",
+	"active_north": "ic2:block/machine/hv/colossal_extractor/active_east",
+	"active_south": "ic2:block/machine/hv/colossal_extractor/active_south",
+	"active_up": "ic2:block/machine/hv/colossal_compressor/active_east",
+	"active_west": "ic2:block/machine/hv/colossal_extractor/active_east",
+	"inactive_down": "ic2:block/machine/hv/colossal_compressor/active_east",
+	"inactive_east": "ic2:block/electric/generator/liquid_fuel/inactive_east",
+	"inactive_north": "ic2:block/electric/generator/liquid_fuel/inactive_east",
+	"inactive_south": "ic2:block/machine/hv/colossal_extractor/inactive_south",
+	"inactive_up": "ic2:block/machine/hv/colossal_compressor/active_east",
+	"inactive_west": "ic2:block/electric/generator/liquid_fuel/inactive_east"
+}

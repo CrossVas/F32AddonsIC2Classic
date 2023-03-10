@@ -1,0 +1,5 @@
+{
+	"nuke_bottom": "ic2:block/misc/explosive/itnt/industrial_tnt_bottom",
+	"nuke_sides": "ic2:block/misc/explosive/nuke/nuke_sides",
+	"nuke_top": "ic2:block/misc/explosive/itnt/industrial_tnt_top"
+}

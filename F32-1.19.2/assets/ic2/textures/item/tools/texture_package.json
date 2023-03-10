@@ -1,0 +1,17 @@
+{
+	"copy_tool": "ic2:item/tools/copy_tool",
+	"crop_analyzer": "ic2:item/tools/crop_analyzer",
+	"empty_fuel_can": "ic2:item/tools/empty_fuel_can",
+	"eu_reader": "ic2:item/tools/eu_reader",
+	"filled_fuel_can": "ic2:item/tools/filled_fuel_can",
+	"frequency_transmitter": "ic2:item/tools/frequency_transmitter",
+	"insulation_cutter": "ic2:item/tools/insulation_cutter",
+	"memory_stick": "ic2:item/tools/memory_stick",
+	"miner_remote": "ic2:item/tools/miner_remote",
+	"mining_laser": "ic2:item/tools/mining_laser",
+	"no_use": "ic2:item/tools/no_use",
+	"obscurator": "ic2:item/tools/obscurator",
+	"portable_teleporter": "ic2:item/tools/portable_teleporter",
+	"thermometer": "ic2:item/tools/thermometer",
+	"tube_tool": "ic2:item/tools/tube_tool"
+}

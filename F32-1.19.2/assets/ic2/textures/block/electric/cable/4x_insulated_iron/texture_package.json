@@ -1,0 +1,19 @@
+{
+	"black": "ic2:block/electric/cable/4x_insulated_iron/black",
+	"blank": "ic2:block/electric/cable/4x_insulated_iron/blank",
+	"blue": "ic2:block/electric/cable/4x_insulated_iron/blue",
+	"brown": "ic2:block/electric/cable/4x_insulated_iron/brown",
+	"cyan": "ic2:block/electric/cable/4x_insulated_iron/cyan",
+	"gray": "ic2:block/electric/cable/4x_insulated_iron/gray",
+	"green": "ic2:block/electric/cable/4x_insulated_iron/green",
+	"light_blue": "ic2:block/electric/cable/4x_insulated_iron/light_blue",
+	"light_gray": "ic2:block/electric/cable/4x_insulated_iron/light_gray",
+	"lime": "ic2:block/electric/cable/4x_insulated_iron/lime",
+	"magenta": "ic2:block/electric/cable/4x_insulated_iron/magenta",
+	"orange": "ic2:block/electric/cable/4x_insulated_iron/orange",
+	"pink": "ic2:block/electric/cable/4x_insulated_iron/pink",
+	"purple": "ic2:block/electric/cable/4x_insulated_iron/purple",
+	"red": "ic2:block/electric/cable/4x_insulated_iron/red",
+	"white": "ic2:block/electric/cable/4x_insulated_iron/white",
+	"yellow": "ic2:block/electric/cable/4x_insulated_iron/yellow"
+}

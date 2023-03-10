@@ -1,0 +1,6 @@
+{
+	"ev": "ic2:item/upgrades/kits/charging/ev",
+	"hv": "ic2:item/upgrades/kits/charging/hv",
+	"iv": "ic2:item/upgrades/kits/charging/iv",
+	"mv": "ic2:item/upgrades/kits/charging/mv"
+}

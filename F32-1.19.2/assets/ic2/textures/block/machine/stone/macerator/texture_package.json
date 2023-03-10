@@ -1,0 +1,14 @@
+{
+	"active_down": "ic2:block/machine/stone/canner/active_down",
+	"active_east": "ic2:block/machine/stone/canner/active_east",
+	"active_north": "ic2:block/machine/stone/canner/active_east",
+	"active_south": "ic2:block/machine/stone/macerator/active_south",
+	"active_up": "ic2:block/machine/stone/macerator/active_up",
+	"active_west": "ic2:block/machine/stone/canner/active_east",
+	"inactive_down": "ic2:block/machine/stone/canner/active_down",
+	"inactive_east": "ic2:block/machine/stone/canner/active_east",
+	"inactive_north": "ic2:block/machine/stone/canner/active_east",
+	"inactive_south": "ic2:block/machine/stone/macerator/active_south",
+	"inactive_up": "ic2:block/machine/stone/macerator/inactive_up",
+	"inactive_west": "ic2:block/machine/stone/canner/active_east"
+}

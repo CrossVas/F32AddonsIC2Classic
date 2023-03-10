@@ -1,0 +1,6 @@
+{
+	"advanced": "ic2:item/tools/drill/advanced",
+	"base": "ic2:item/tools/drill/base",
+	"diamond": "ic2:item/tools/drill/diamond",
+	"jackhammer": "ic2:item/tools/drill/jackhammer"
+}

@@ -1,0 +1,14 @@
+{
+	"active_down": "ic2:block/machines/bottom",
+	"active_east": "ic2:block/machines/reactor_active",
+	"active_north": "ic2:block/machines/reactor_active",
+	"active_south": "ic2:block/machines/reactor_active",
+	"active_up": "ic2:block/machines/reactor_casing",
+	"active_west": "ic2:block/machines/reactor_active",
+	"inactive_down": "ic2:block/machines/bottom",
+	"inactive_east": "ic2:block/machines/reactor",
+	"inactive_north": "ic2:block/machines/reactor",
+	"inactive_south": "ic2:block/machines/reactor",
+	"inactive_up": "ic2:block/machines/reactor_casing",
+	"inactive_west": "ic2:block/machines/reactor"
+}

@@ -1,0 +1,5 @@
+{
+	"down": "ic2:block/electric/battery_station/mv/down",
+	"side": "ic2:block/electric/generator/reactor_chamber/side",
+	"up": "ic2:block/electric/energy_storage/mfe/up"
+}

@@ -1,0 +1,14 @@
+{
+	"active_down": "ic2:block/machines/bottom",
+	"active_east": "ic2:block/machines/side_buffer_active",
+	"active_north": "ic2:block/machines/side_buffer_active",
+	"active_south": "ic2:block/machines/buffer",
+	"active_up": "ic2:block/machines/top",
+	"active_west": "ic2:block/machines/side_buffer_active",
+	"inactive_down": "ic2:block/machines/bottom",
+	"inactive_east": "ic2:block/machines/side_buffer",
+	"inactive_north": "ic2:block/machines/side_buffer",
+	"inactive_south": "ic2:block/machines/buffer",
+	"inactive_up": "ic2:block/machines/top",
+	"inactive_west": "ic2:block/machines/side_buffer"
+}

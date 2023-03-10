@@ -1,0 +1,15 @@
+{
+	"door_lower": "ic2:block/resources/rubberwood/door_lower",
+	"door_upper": "ic2:block/resources/rubberwood/door_upper",
+	"log_resin_empty_stripped": "ic2:block/resources/rubberwood/log_resin_empty_stripped",
+	"log_resin_empty": "ic2:block/resources/rubberwood/log_resin_empty",
+	"log_resin_full_stripped": "ic2:block/resources/rubberwood/log_resin_full_stripped",
+	"log_resin_full": "ic2:block/resources/rubberwood/log_resin_full",
+	"log_sides_stripped": "ic2:block/resources/rubberwood/log_sides_stripped",
+	"log_sides": "ic2:block/resources/rubberwood/log_sides",
+	"log_top_stripped": "ic2:block/resources/rubberwood/log_top_stripped",
+	"log_top": "ic2:block/resources/rubberwood/log_top",
+	"planks": "ic2:block/resources/rubberwood/planks",
+	"sapling": "ic2:block/resources/rubberwood/sapling",
+	"trapdoor": "ic2:block/resources/rubberwood/trapdoor"
+}

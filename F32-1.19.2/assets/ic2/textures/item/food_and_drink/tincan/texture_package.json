@@ -1,0 +1,8 @@
+{
+	"bad_tin_can": "ic2:item/food_and_drink/tincan/bad_tin_can",
+	"chicken_tin_can": "ic2:item/food_and_drink/tincan/chicken_tin_can",
+	"chorus_tin_can": "ic2:item/food_and_drink/tincan/chorus_tin_can",
+	"filled_tin_can": "ic2:item/food_and_drink/tincan/filled_tin_can",
+	"golden_tin_can": "ic2:item/food_and_drink/tincan/golden_tin_can",
+	"tin_can": "ic2:item/food_and_drink/tincan/tin_can"
+}

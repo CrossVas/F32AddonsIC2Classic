@@ -1,0 +1,5 @@
+{
+	"iridium_neutron": "ic2:item/reactor/reflector/iridium_neutron",
+	"neutron": "ic2:item/reactor/reflector/neutron",
+	"thick_neutron": "ic2:item/reactor/reflector/thick_neutron"
+}

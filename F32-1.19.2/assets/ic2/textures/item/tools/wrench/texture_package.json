@@ -1,0 +1,5 @@
+{
+	"base": "ic2:item/tools/wrench/base",
+	"manual": "ic2:item/tools/wrench/manual",
+	"precision": "ic2:item/tools/wrench/precision"
+}

@@ -1,0 +1,13 @@
+{
+	"fertilizer": "ic2:item/crops/fertilizer",
+	"grin_powder": "ic2:item/crops/grin_powder",
+	"hemp_seeds": "ic2:item/crops/hemp_seeds",
+	"hemp": "ic2:item/crops/hemp",
+	"hops": "ic2:item/crops/hops",
+	"hydration_cell": "ic2:item/crops/hydration_cell",
+	"overgrowth_fertilizer": "ic2:item/crops/overgrowth_fertilizer",
+	"restoring_fertilizer": "ic2:item/crops/restoring_fertilizer",
+	"seed_bag": "ic2:item/crops/seed_bag",
+	"terrawart": "ic2:item/crops/terrawart",
+	"weedex": "ic2:item/crops/weedex"
+}

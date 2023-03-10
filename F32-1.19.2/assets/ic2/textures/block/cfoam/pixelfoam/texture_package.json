@@ -1,0 +1,14 @@
+{
+	"bolt": "ic2:block/cfoam/pixelfoam/bolt",
+	"crown": "ic2:block/cfoam/pixelfoam/crown",
+	"fire": "ic2:block/cfoam/pixelfoam/fire",
+	"greg": "ic2:block/cfoam/pixelfoam/greg",
+	"half_life": "ic2:block/cfoam/pixelfoam/half_life",
+	"heart": "ic2:block/cfoam/pixelfoam/heart",
+	"ic2": "ic2:block/cfoam/pixelfoam/ic2",
+	"muffin_button": "ic2:block/cfoam/pixelfoam/muffin_button",
+	"nuclear": "ic2:block/cfoam/pixelfoam/nuclear",
+	"portal": "ic2:block/cfoam/pixelfoam/portal",
+	"rose": "ic2:block/cfoam/pixelfoam/rose",
+	"triforce": "ic2:block/cfoam/pixelfoam/triforce"
+}

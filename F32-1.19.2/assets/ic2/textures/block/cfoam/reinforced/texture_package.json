@@ -1,0 +1,9 @@
+{
+	"brick": "ic2:block/cfoam/reinforced/brick",
+	"clear_glass": "ic2:block/cfoam/reinforced/clear_glass",
+	"cracked_stone": "ic2:block/cfoam/reinforced/cracked_stone",
+	"door_lower": "ic2:block/cfoam/reinforced/door_lower",
+	"door_upper": "ic2:block/cfoam/reinforced/door_upper",
+	"glass": "ic2:block/cfoam/reinforced/glass",
+	"stone": "ic2:block/cfoam/reinforced/stone"
+}

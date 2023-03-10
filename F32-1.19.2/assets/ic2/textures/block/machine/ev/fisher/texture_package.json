@@ -1,0 +1,5 @@
+{
+	"down": "ic2:block/machine/ev/fisher/down",
+	"side": "ic2:block/machine/ev/fisher/side",
+	"up": "ic2:block/machine/ev/fisher/up"
+}

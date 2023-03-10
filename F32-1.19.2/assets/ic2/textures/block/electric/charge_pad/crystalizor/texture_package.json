@@ -1,0 +1,14 @@
+{
+	"active_down": "ic2:block/electric/charge_pad/crystalizor/down",
+	"active_east": "ic2:block/electric/charge_pad/crystalizor/side",
+	"active_north": "ic2:block/electric/charge_pad/crystalizor/side",
+	"active_south": "ic2:block/electric/charge_pad/crystalizor/side",
+	"active_up": "ic2:block/electric/charge_pad/crystalizor/active_up",
+	"active_west": "ic2:block/electric/charge_pad/crystalizor/side",
+	"inactive_down": "ic2:block/electric/charge_pad/crystalizor/down",
+	"inactive_east": "ic2:block/electric/charge_pad/crystalizor/side",
+	"inactive_north": "ic2:block/electric/charge_pad/crystalizor/side",
+	"inactive_south": "ic2:block/electric/charge_pad/crystalizor/side",
+	"inactive_up": "ic2:block/electric/charge_pad/crystalizor/inactive_up",
+	"inactive_west": "ic2:block/electric/charge_pad/crystalizor/side"
+}

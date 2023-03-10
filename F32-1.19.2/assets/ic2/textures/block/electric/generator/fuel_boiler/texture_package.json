@@ -1,0 +1,14 @@
+{
+	"active_down": "ic2:block/electric/battery_station/mv/down",
+	"active_east": "ic2:block/electric/generator/fuel_boiler/active_east",
+	"active_north": "ic2:block/electric/generator/fuel_boiler/active_east",
+	"active_south": "ic2:block/electric/generator/fuel_boiler/active_south",
+	"active_up": "ic2:block/electric/energy_storage/mfe/up",
+	"active_west": "ic2:block/electric/generator/fuel_boiler/active_east",
+	"inactive_down": "ic2:block/electric/battery_station/mv/down",
+	"inactive_east": "ic2:block/electric/generator/fuel_boiler/active_east",
+	"inactive_north": "ic2:block/electric/generator/fuel_boiler/active_east",
+	"inactive_south": "ic2:block/electric/generator/fuel_boiler/inactive_south",
+	"inactive_up": "ic2:block/electric/energy_storage/mfe/up",
+	"inactive_west": "ic2:block/electric/generator/fuel_boiler/active_east"
+}

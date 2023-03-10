@@ -1,0 +1,6 @@
+{
+	"active_back": "ic2:block/electric/monitor/active_back",
+	"active_side": "ic2:block/electric/monitor/active_side",
+	"inactive_back": "ic2:block/electric/monitor/active_back",
+	"inactive_side": "ic2:block/electric/monitor/active_side"
+}

@@ -1,0 +1,14 @@
+{
+	"active_down": "ic2:block/electric/charge_pad/static/down",
+	"active_east": "ic2:block/electric/charge_pad/static/side",
+	"active_north": "ic2:block/electric/charge_pad/static/side",
+	"active_south": "ic2:block/electric/charge_pad/static/side",
+	"active_up": "ic2:block/electric/charge_pad/static/active_up",
+	"active_west": "ic2:block/electric/charge_pad/static/side",
+	"inactive_down": "ic2:block/electric/charge_pad/static/down",
+	"inactive_east": "ic2:block/electric/charge_pad/static/side",
+	"inactive_north": "ic2:block/electric/charge_pad/static/side",
+	"inactive_south": "ic2:block/electric/charge_pad/static/side",
+	"inactive_up": "ic2:block/electric/charge_pad/static/inactive_up",
+	"inactive_west": "ic2:block/electric/charge_pad/static/side"
+}

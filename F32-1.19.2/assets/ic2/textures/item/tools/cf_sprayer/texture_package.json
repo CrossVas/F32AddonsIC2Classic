@@ -1,0 +1,5 @@
+{
+	"advanced": "ic2:item/tools/cf_sprayer/advanced",
+	"base": "ic2:item/tools/cf_sprayer/base",
+	"manual": "ic2:item/tools/cf_sprayer/manual"
+}

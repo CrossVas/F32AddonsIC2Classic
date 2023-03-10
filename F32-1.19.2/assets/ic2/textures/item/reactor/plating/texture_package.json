@@ -1,0 +1,5 @@
+{
+	"containment_reactor": "ic2:item/reactor/plating/containment_reactor",
+	"heat_capacity_reactor": "ic2:item/reactor/plating/heat_capacity_reactor",
+	"reactor": "ic2:item/reactor/plating/reactor"
+}

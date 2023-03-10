@@ -1,0 +1,8 @@
+{
+	"down": "ic2:block/personal/tank/down",
+	"east": "ic2:block/personal/tank/east",
+	"north": "ic2:block/personal/tank/east",
+	"south": "ic2:block/personal/tank/east",
+	"up": "ic2:block/personal/chest/up",
+	"west": "ic2:block/personal/tank/east"
+}

@@ -1,0 +1,15 @@
+{
+	"advanced_electric": "ic2:item/reactor/vents/advanced_electric",
+	"advanced_heat": "ic2:item/reactor/vents/advanced_heat",
+	"advanced_steam": "ic2:item/reactor/vents/advanced_steam",
+	"core_electric": "ic2:item/reactor/vents/core_electric",
+	"core_heat": "ic2:item/reactor/vents/core_heat",
+	"core_steam": "ic2:item/reactor/vents/core_steam",
+	"electric": "ic2:item/reactor/vents/electric",
+	"heat": "ic2:item/reactor/vents/heat",
+	"overclocked_electric": "ic2:item/reactor/vents/overclocked_electric",
+	"overclocked_heat": "ic2:item/reactor/vents/overclocked_heat",
+	"overclocked_steam": "ic2:item/reactor/vents/overclocked_steam",
+	"spreader_heat": "ic2:item/reactor/vents/spreader_heat",
+	"steam": "ic2:item/reactor/vents/steam"
+}

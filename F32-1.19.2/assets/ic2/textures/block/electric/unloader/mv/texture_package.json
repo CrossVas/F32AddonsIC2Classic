@@ -1,0 +1,8 @@
+{
+	"down": "ic2:block/electric/unloader/mv/down",
+	"east": "ic2:block/electric/unloader/mv/east",
+	"north": "ic2:block/electric/unloader/mv/east",
+	"south": "ic2:block/electric/loader/mv/south",
+	"up": "ic2:block/electric/unloader/mv/up",
+	"west": "ic2:block/electric/unloader/mv/east"
+}

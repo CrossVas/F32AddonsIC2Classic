@@ -1,0 +1,18 @@
+{
+	"heat_pump_1": "ic2:item/reactor/pump/heat_pump_1",
+	"heat_pump_10": "ic2:item/reactor/pump/heat_pump_10",
+	"heat_pump_11": "ic2:item/reactor/pump/heat_pump_11",
+	"heat_pump_12": "ic2:item/reactor/pump/heat_pump_12",
+	"heat_pump_13": "ic2:item/reactor/pump/heat_pump_13",
+	"heat_pump_14": "ic2:item/reactor/pump/heat_pump_14",
+	"heat_pump_15": "ic2:item/reactor/pump/heat_pump_15",
+	"heat_pump_2": "ic2:item/reactor/pump/heat_pump_2",
+	"heat_pump_3": "ic2:item/reactor/pump/heat_pump_3",
+	"heat_pump_4": "ic2:item/reactor/pump/heat_pump_4",
+	"heat_pump_5": "ic2:item/reactor/pump/heat_pump_5",
+	"heat_pump_6": "ic2:item/reactor/pump/heat_pump_6",
+	"heat_pump_7": "ic2:item/reactor/pump/heat_pump_7",
+	"heat_pump_8": "ic2:item/reactor/pump/heat_pump_8",
+	"heat_pump_9": "ic2:item/reactor/pump/heat_pump_9",
+	"heat_pump": "ic2:item/reactor/pump/heat_pump"
+}

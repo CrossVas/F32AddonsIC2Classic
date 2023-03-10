@@ -1,0 +1,14 @@
+{
+	"active_down": "ic2:block/machines/bottom",
+	"active_east": "ic2:block/machines/side",
+	"active_north": "ic2:block/machines/side",
+	"active_south": "ic2:block/machines/macerator_active",
+	"active_up": "ic2:block/machines/top_macerator_active",
+	"active_west": "ic2:block/machines/side",
+	"inactive_down": "ic2:block/machines/bottom",
+	"inactive_east": "ic2:block/machines/side",
+	"inactive_north": "ic2:block/machines/side",
+	"inactive_south": "ic2:block/machines/macerator",
+	"inactive_up": "ic2:block/machines/top_macerator",
+	"inactive_west": "ic2:block/machines/side"
+}

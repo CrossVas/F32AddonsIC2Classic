@@ -1,0 +1,5 @@
+{
+	"advanced": "ic2:item/tools/treetap/advanced",
+	"base": "ic2:item/tools/treetap/base",
+	"manual": "ic2:item/tools/treetap/manual"
+}

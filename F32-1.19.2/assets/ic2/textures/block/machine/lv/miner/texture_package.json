@@ -1,0 +1,14 @@
+{
+	"active_down": "ic2:block/machines/bottom_miner",
+	"active_east": "ic2:block/machines/side_red",
+	"active_north": "ic2:block/machines/side_red",
+	"active_south": "ic2:block/machines/side_red",
+	"active_up": "ic2:block/machines/top",
+	"active_west": "ic2:block/machines/side_red",
+	"inactive_down": "ic2:block/machines/bottom_miner",
+	"inactive_east": "ic2:block/machines/side_red",
+	"inactive_north": "ic2:block/machines/side_red",
+	"inactive_south": "ic2:block/machines/side_red",
+	"inactive_up": "ic2:block/machines/top",
+	"inactive_west": "ic2:block/machines/side_red"
+}

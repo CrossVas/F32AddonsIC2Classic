@@ -1,0 +1,8 @@
+{
+	"down": "ic2:block/electric/energy_storage/batterystation/side",
+	"east": "ic2:block/electric/energy_storage/batterystation/side",
+	"north": "ic2:block/electric/energy_storage/batterystation/side",
+	"south": "ic2:block/electric/energy_storage/batterystation/front",
+	"up": "ic2:block/electric/energy_storage/batterystation/side",
+	"west": "ic2:block/electric/energy_storage/batterystation/side"
+}

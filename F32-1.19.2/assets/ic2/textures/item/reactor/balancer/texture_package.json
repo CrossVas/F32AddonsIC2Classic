@@ -1,0 +1,6 @@
+{
+	"advanced_heat": "ic2:item/reactor/balancer/advanced_heat",
+	"component_heat": "ic2:item/reactor/balancer/component_heat",
+	"core_heat": "ic2:item/reactor/balancer/core_heat",
+	"heat": "ic2:item/reactor/balancer/heat"
+}

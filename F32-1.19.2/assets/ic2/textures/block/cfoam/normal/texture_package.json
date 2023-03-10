@@ -1,0 +1,18 @@
+{
+	"black": "ic2:block/cfoam/normal/black",
+	"blue": "ic2:block/cfoam/normal/blue",
+	"brown": "ic2:block/cfoam/normal/brown",
+	"cyan": "ic2:block/cfoam/normal/cyan",
+	"gray": "ic2:block/cfoam/normal/gray",
+	"green": "ic2:block/cfoam/normal/green",
+	"light_blue": "ic2:block/cfoam/normal/light_blue",
+	"light_gray": "ic2:block/cfoam/normal/light_gray",
+	"lime": "ic2:block/cfoam/normal/lime",
+	"magenta": "ic2:block/cfoam/normal/magenta",
+	"orange": "ic2:block/cfoam/normal/orange",
+	"pink": "ic2:block/cfoam/normal/pink",
+	"purple": "ic2:block/cfoam/normal/purple",
+	"red": "ic2:block/cfoam/normal/red",
+	"white": "ic2:block/cfoam/normal/white",
+	"yellow": "ic2:block/cfoam/normal/yellow"
+}

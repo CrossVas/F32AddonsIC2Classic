@@ -1,0 +1,11 @@
+{
+	"aluminium_ore_nether": "ic2:block/resources/ore/aluminium_ore_nether",
+	"copper_ore": "ic2:block/resources/ore/copper_ore",
+	"deepslate_silver_ore": "ic2:block/resources/ore/deepslate_silver_ore",
+	"deepslate_tin_ore": "ic2:block/resources/ore/deepslate_tin_ore",
+	"deepslate_uranium_ore": "ic2:block/resources/ore/deepslate_uranium_ore",
+	"silver_ore_nether": "ic2:block/resources/ore/silver_ore_nether",
+	"silver_ore": "ic2:block/resources/ore/silver_ore",
+	"tin_ore": "ic2:block/resources/ore/tin_ore",
+	"uranium_ore": "ic2:block/resources/ore/uranium_ore"
+}

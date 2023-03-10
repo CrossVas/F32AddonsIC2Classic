@@ -1,0 +1,8 @@
+{
+	"base": "ic2:item/reactor/cells/uranium/quad/base",
+	"blaze_enriched": "ic2:item/reactor/cells/uranium/quad/blaze_enriched",
+	"charcoal_enriched": "ic2:item/reactor/cells/uranium/quad/charcoal_enriched",
+	"enderpearl_enriched": "ic2:item/reactor/cells/uranium/quad/enderpearl_enriched",
+	"netherstar_enriched": "ic2:item/reactor/cells/uranium/quad/netherstar_enriched",
+	"redstone_enriched": "ic2:item/reactor/cells/uranium/quad/redstone_enriched"
+}

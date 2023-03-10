@@ -1,0 +1,6 @@
+{
+	"alive_overlay": "ic2:block/cfoam/pixelfoam/among_us/alive_overlay",
+	"alive": "ic2:block/cfoam/pixelfoam/among_us/alive",
+	"dead_overlay": "ic2:block/cfoam/pixelfoam/among_us/dead_overlay",
+	"dead": "ic2:block/cfoam/pixelfoam/among_us/dead"
+}

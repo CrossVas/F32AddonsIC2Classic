@@ -1,0 +1,5 @@
+{
+	"construction_light": "ic2:block/electric/luminator/construction_light",
+	"luminator_off": "ic2:block/electric/luminator/luminator_off",
+	"luminator_on": "ic2:block/electric/luminator/luminator_off"
+}

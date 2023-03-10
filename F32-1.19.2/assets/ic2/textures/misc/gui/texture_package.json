@@ -1,0 +1,18 @@
+{
+	"add": "ic2:misc/gui/add",
+	"charge_slot": "ic2:misc/gui/charge_slot",
+	"discharge": "ic2:misc/gui/discharge",
+	"fluid_drain": "ic2:misc/gui/fluid_drain",
+	"fuel_can": "ic2:misc/gui/fuel_can",
+	"fuel": "ic2:misc/gui/fuel",
+	"memory_stick": "ic2:misc/gui/memory_stick",
+	"no": "ic2:misc/gui/no",
+	"remove": "ic2:misc/gui/remove",
+	"scanner": "ic2:misc/gui/scanner",
+	"scrap": "ic2:misc/gui/scrap",
+	"seed_bag": "ic2:misc/gui/seed_bag",
+	"swap": "ic2:misc/gui/swap",
+	"trashcan": "ic2:misc/gui/trashcan",
+	"upgrade": "ic2:misc/gui/upgrade",
+	"yes": "ic2:misc/gui/yes"
+}

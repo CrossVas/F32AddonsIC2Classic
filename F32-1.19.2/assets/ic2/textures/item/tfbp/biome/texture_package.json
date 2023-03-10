@@ -1,0 +1,10 @@
+{
+	"chilling": "ic2:item/tfbp/biome/chilling",
+	"cultivation": "ic2:item/tfbp/biome/cultivation",
+	"desertification": "ic2:item/tfbp/biome/desertification",
+	"empty": "ic2:item/tfbp/biome/empty",
+	"forestification": "ic2:item/tfbp/biome/forestification",
+	"irrigation": "ic2:item/tfbp/biome/irrigation",
+	"mushroom": "ic2:item/tfbp/biome/mushroom",
+	"undergrowth": "ic2:item/tfbp/biome/undergrowth"
+}

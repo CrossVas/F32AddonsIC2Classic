@@ -1,0 +1,9 @@
+{
+	"chilling": "ic2:item/tfbp/terrain/chilling",
+	"cultivation": "ic2:item/tfbp/terrain/cultivation",
+	"desertification": "ic2:item/tfbp/terrain/desertification",
+	"empty": "ic2:item/tfbp/terrain/empty",
+	"flatification": "ic2:item/tfbp/terrain/flatification",
+	"irrigation": "ic2:item/tfbp/terrain/irrigation",
+	"mushroom": "ic2:item/tfbp/terrain/mushroom"
+}

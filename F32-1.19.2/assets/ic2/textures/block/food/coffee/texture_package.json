@@ -1,0 +1,6 @@
+{
+	"down": "ic2:block/food/coffee/down",
+	"inner": "ic2:block/food/coffee/inner",
+	"outer": "ic2:block/food/coffee/outer",
+	"up": "ic2:block/food/coffee/up"
+}

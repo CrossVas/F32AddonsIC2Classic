@@ -1,0 +1,8 @@
+{
+	"down": "ic2:block/electric/generator/steam_tunnel/base/down",
+	"east": "ic2:block/electric/generator/steam_tunnel/base/down",
+	"north": "ic2:block/electric/generator/steam_tunnel/base/down",
+	"south": "ic2:block/electric/generator/steam_tunnel/base/down",
+	"up": "ic2:block/electric/generator/steam_tunnel/base/down",
+	"west": "ic2:block/electric/generator/steam_tunnel/base/down"
+}

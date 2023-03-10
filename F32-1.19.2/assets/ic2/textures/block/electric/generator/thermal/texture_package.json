@@ -1,0 +1,20 @@
+{
+	"active_down": "ic2:block/electric/battery_station/mv/down",
+	"active_east": "ic2:block/electric/energy_storage/mfe/east",
+	"active_north": "ic2:block/electric/energy_storage/mfe/east",
+	"active_south": "ic2:block/electric/generator/geothermal/active_south",
+	"active_up": "ic2:block/electric/generator/slag/active_up",
+	"active_west": "ic2:block/electric/energy_storage/mfe/east",
+	"inactive_down": "ic2:block/electric/battery_station/mv/down",
+	"inactive_east": "ic2:block/electric/energy_storage/mfe/east",
+	"inactive_north": "ic2:block/electric/energy_storage/mfe/east",
+	"inactive_south": "ic2:block/electric/generator/geothermal/inactive_south",
+	"inactive_up": "ic2:block/electric/generator/slag/active_up",
+	"inactive_west": "ic2:block/electric/energy_storage/mfe/east",
+	"passive_down": "ic2:block/electric/battery_station/mv/down",
+	"passive_east": "ic2:block/electric/energy_storage/mfe/east",
+	"passive_north": "ic2:block/electric/energy_storage/mfe/east",
+	"passive_south": "ic2:block/electric/generator/thermal/passive_south",
+	"passive_up": "ic2:block/electric/generator/slag/active_up",
+	"passive_west": "ic2:block/electric/energy_storage/mfe/east"
+}

@@ -1,0 +1,18 @@
+{
+	"corner_bottom_left": "ic2:block/electric/generator/steam_tunnel/structure/corner_bottom_left",
+	"corner_bottom_right": "ic2:block/electric/generator/steam_tunnel/structure/corner_bottom_right",
+	"corner_top_left": "ic2:block/electric/generator/steam_tunnel/structure/corner_top_left",
+	"corner_top_right": "ic2:block/electric/generator/steam_tunnel/structure/corner_top_right",
+	"empty": "ic2:block/electric/generator/steam_tunnel/structure/empty",
+	"end_bottom": "ic2:block/electric/generator/steam_tunnel/structure/end_bottom",
+	"end_left": "ic2:block/electric/generator/steam_tunnel/structure/end_left",
+	"end_right": "ic2:block/electric/generator/steam_tunnel/structure/end_right",
+	"end_top": "ic2:block/electric/generator/steam_tunnel/structure/end_top",
+	"full": "ic2:block/electric/generator/steam_tunnel/base/down",
+	"side_bottom": "ic2:block/electric/generator/steam_tunnel/structure/side_bottom",
+	"side_left": "ic2:block/electric/generator/steam_tunnel/structure/side_left",
+	"side_right": "ic2:block/electric/generator/steam_tunnel/structure/side_right",
+	"side_top": "ic2:block/electric/generator/steam_tunnel/structure/side_top",
+	"straight_horizontal": "ic2:block/electric/generator/steam_tunnel/structure/straight_horizontal",
+	"straight_vertical": "ic2:block/electric/generator/steam_tunnel/structure/straight_vertical"
+}

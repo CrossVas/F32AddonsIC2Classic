@@ -1,0 +1,12 @@
+{
+	"barrel": "ic2:item/food_and_drink/barrel",
+	"chips_roll": "ic2:item/food_and_drink/chips_roll",
+	"chocolate": "ic2:item/food_and_drink/chocolate",
+	"coffee_beans": "ic2:item/food_and_drink/coffee_beans",
+	"coffee_powder": "ic2:item/food_and_drink/coffee_powder",
+	"flour": "ic2:item/food_and_drink/flour",
+	"fries": "ic2:item/food_and_drink/fries",
+	"potato_slices": "ic2:item/food_and_drink/potato_slices",
+	"tea_leaf": "ic2:item/food_and_drink/tea_leaf",
+	"whisky_grist": "ic2:item/food_and_drink/whisky_grist"
+}

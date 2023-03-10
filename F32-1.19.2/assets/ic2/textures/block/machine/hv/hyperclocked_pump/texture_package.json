@@ -1,0 +1,19 @@
+{
+	"active_down": "ic2:block/electric/battery_station/mv/down",
+	"active_east": "ic2:block/machine/hv/hyperclocked_pump/active_east",
+	"active_front": "ic2:block/machine/hv/hyperclocked_pump/active_front",
+	"active_north": "ic2:block/machine/hv/hyperclocked_pump/active_front",
+	"active_side": "ic2:block/machine/hv/hyperclocked_pump/active_east",
+	"active_south": "ic2:block/machine/hv/hyperclocked_pump/active_front",
+	"active_up": "ic2:block/machine/hv/hyperclocked_pump/active_up",
+	"active_west": "ic2:block/machine/hv/hyperclocked_pump/active_east",
+	"down": "ic2:block/electric/battery_station/mv/down",
+	"inactive_down": "ic2:block/electric/battery_station/mv/down",
+	"inactive_east": "ic2:block/machine/hv/hyperclocked_pump/inactive_east",
+	"inactive_front": "ic2:block/machine/hv/hyperclocked_pump/inactive_front",
+	"inactive_north": "ic2:block/machine/hv/hyperclocked_pump/inactive_front",
+	"inactive_side": "ic2:block/machine/hv/hyperclocked_pump/inactive_east",
+	"inactive_south": "ic2:block/machine/hv/hyperclocked_pump/inactive_front",
+	"inactive_up": "ic2:block/machine/hv/hyperclocked_pump/inactive_up",
+	"inactive_west": "ic2:block/machine/hv/hyperclocked_pump/inactive_east"
+}

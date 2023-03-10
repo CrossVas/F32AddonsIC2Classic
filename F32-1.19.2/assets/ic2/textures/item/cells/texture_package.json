@@ -1,0 +1,19 @@
+{
+	"air": "ic2:item/cells/air",
+	"alcohol": "ic2:item/cells/alcohol",
+	"bio_fuel": "ic2:item/cells/bio_fuel",
+	"bio": "ic2:item/cells/bio_fuel",
+	"blazing_lava": "ic2:item/cells/blazing_lava",
+	"coal_fuel": "ic2:item/cells/coal_fuel",
+	"coal": "ic2:item/cells/coal",
+	"coolant": "ic2:item/cells/coolant",
+	"electrolyzed_water": "ic2:item/cells/electrolyzed_water",
+	"empty": "ic2:item/cells/empty",
+	"fluid_bio_fuel": "ic2:item/cells/fluid_bio_fuel",
+	"fuel": "ic2:item/cells/fuel",
+	"inactive_fuel": "ic2:item/cells/inactive_fuel",
+	"lava": "ic2:item/cells/lava",
+	"plasma": "ic2:item/cells/plasma",
+	"water": "ic2:item/cells/water",
+	"woodgas": "ic2:item/cells/woodgas"
+}

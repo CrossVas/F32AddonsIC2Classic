@@ -1,0 +1,9 @@
+{
+	"aluminium_dust_block": "ic2:block/resources/dust/aluminium_dust_block",
+	"bronze_dust_block": "ic2:block/resources/dust/bronze_dust_block",
+	"copper_dust_block": "ic2:block/resources/dust/copper_dust_block",
+	"gold_dust_block": "ic2:block/resources/dust/gold_dust_block",
+	"iron_dust_block": "ic2:block/resources/dust/iron_dust_block",
+	"silver_dust_block": "ic2:block/resources/dust/silver_dust_block",
+	"tin_dust_block": "ic2:block/resources/dust/tin_dust_block"
+}

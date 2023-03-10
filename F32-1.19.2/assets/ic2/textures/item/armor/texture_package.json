@@ -1,0 +1,7 @@
+{
+	"industrial_belt": "ic2:item/armor/industrial_belt",
+	"nightvision_goggles": "ic2:item/armor/nightvision_goggles",
+	"plated_shield": "ic2:item/armor/plated_shield",
+	"static_boots": "ic2:item/armor/hazmat/rubber_boots",
+	"unknown": "ic2:item/armor/unknown"
+}

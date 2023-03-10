@@ -1,0 +1,8 @@
+{
+	"base": "ic2:item/armor/jetpack/base",
+	"compacted_basic": "ic2:item/armor/jetpack/compacted_basic",
+	"compacted_electric": "ic2:item/armor/jetpack/compacted_electric",
+	"compacted_nuclear": "ic2:item/armor/jetpack/compacted_nuclear",
+	"electric": "ic2:item/armor/jetpack/electric",
+	"nuclear": "ic2:item/armor/jetpack/nuclear"
+}

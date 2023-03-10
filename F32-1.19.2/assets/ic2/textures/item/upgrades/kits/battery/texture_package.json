@@ -1,0 +1,6 @@
+{
+	"ev": "ic2:item/upgrades/kits/battery/ev",
+	"hv": "ic2:item/upgrades/kits/battery/hv",
+	"iv": "ic2:item/upgrades/kits/battery/iv",
+	"mv": "ic2:item/upgrades/kits/battery/mv"
+}

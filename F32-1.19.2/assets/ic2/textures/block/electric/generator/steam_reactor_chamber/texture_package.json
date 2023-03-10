@@ -1,0 +1,5 @@
+{
+	"down": "ic2:block/electric/generator/steam_reactor_chamber/down",
+	"side": "ic2:block/electric/generator/steam_reactor_chamber/side",
+	"up": "ic2:block/electric/generator/steam_reactor_chamber/up"
+}

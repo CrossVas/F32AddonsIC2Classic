@@ -1,0 +1,14 @@
+{
+	"active_down": "ic2:block/electric/battery_station/mv/down",
+	"active_east": "ic2:block/machine/mv/ranged_pump/active_east",
+	"active_north": "ic2:block/machine/mv/ranged_pump/active_north",
+	"active_south": "ic2:block/machine/mv/ranged_pump/active_south",
+	"active_up": "ic2:block/machine/mv/overclocked_pump/active_up",
+	"active_west": "ic2:block/machine/mv/ranged_pump/active_north",
+	"inactive_down": "ic2:block/electric/battery_station/mv/down",
+	"inactive_east": "ic2:block/machine/mv/ranged_pump/inactive_east",
+	"inactive_north": "ic2:block/machine/mv/overclocked_pump/inactive_west",
+	"inactive_south": "ic2:block/machine/mv/ranged_pump/inactive_south",
+	"inactive_up": "ic2:block/machine/mv/overclocked_pump/inactive_up",
+	"inactive_west": "ic2:block/machine/mv/overclocked_pump/inactive_west"
+}

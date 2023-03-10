@@ -1,0 +1,8 @@
+{
+	"coin_x32768": "ic2:item/coins/coin_x32768",
+	"coin_x4096": "ic2:item/coins/coin_x4096",
+	"coin_x512": "ic2:item/coins/coin_x512",
+	"coin_x64": "ic2:item/coins/coin_x64",
+	"coin_x8": "ic2:item/coins/coin_x8",
+	"coin": "ic2:item/coins/coin"
+}

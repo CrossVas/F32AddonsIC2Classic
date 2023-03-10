@@ -1,0 +1,6 @@
+{
+	"10k_coolant": "ic2:item/cells/coolant",
+	"30k_coolant": "ic2:item/reactor/cells/30k_coolant",
+	"60k_coolant": "ic2:item/reactor/cells/60k_coolant",
+	"heating": "ic2:item/reactor/cells/heating"
+}

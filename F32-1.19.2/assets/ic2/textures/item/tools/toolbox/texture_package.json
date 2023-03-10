@@ -1,0 +1,10 @@
+{
+	"empty_base": "ic2:item/tools/toolbox/empty_base",
+	"empty_nano": "ic2:item/tools/toolbox/empty_nano",
+	"empty_quantum": "ic2:item/tools/toolbox/empty_quantum",
+	"empty_redstone": "ic2:item/tools/toolbox/empty_redstone",
+	"filled_base": "ic2:item/tools/toolbox/filled_base",
+	"filled_nano": "ic2:item/tools/toolbox/filled_nano",
+	"filled_quantum": "ic2:item/tools/toolbox/filled_quantum",
+	"filled_redstone": "ic2:item/tools/toolbox/filled_redstone"
+}

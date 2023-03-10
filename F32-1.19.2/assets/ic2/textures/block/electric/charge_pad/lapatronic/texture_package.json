@@ -1,0 +1,14 @@
+	{
+	"active_down": "ic2:block/electric/charge_pad/lapatronic/down",
+	"active_east": "ic2:block/electric/charge_pad/lapatronic/side",
+	"active_north": "ic2:block/electric/charge_pad/lapatronic/side",
+	"active_south": "ic2:block/electric/charge_pad/lapatronic/side",
+	"active_up": "ic2:block/electric/charge_pad/lapatronic/active_up",
+	"active_west": "ic2:block/electric/charge_pad/lapatronic/side",
+	"inactive_down": "ic2:block/electric/charge_pad/lapatronic/down",
+	"inactive_east": "ic2:block/electric/charge_pad/lapatronic/side",
+	"inactive_north": "ic2:block/electric/charge_pad/lapatronic/side",
+	"inactive_south": "ic2:block/electric/charge_pad/lapatronic/side",
+	"inactive_up": "ic2:block/electric/charge_pad/lapatronic/inactive_up",
+	"inactive_west": "ic2:block/electric/charge_pad/lapatronic/side"
+}

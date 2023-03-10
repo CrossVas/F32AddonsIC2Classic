@@ -1,0 +1,19 @@
+{
+	"black": "ic2:block/electric/cable/glass_fiber/black",
+	"blank": "ic2:block/electric/cable/glass_fiber/blank",
+	"blue": "ic2:block/electric/cable/glass_fiber/blue",
+	"brown": "ic2:block/electric/cable/glass_fiber/brown",
+	"cyan": "ic2:block/electric/cable/glass_fiber/cyan",
+	"gray": "ic2:block/electric/cable/glass_fiber/gray",
+	"green": "ic2:block/electric/cable/glass_fiber/green",
+	"light_blue": "ic2:block/electric/cable/glass_fiber/light_blue",
+	"light_gray": "ic2:block/electric/cable/glass_fiber/light_gray",
+	"lime": "ic2:block/electric/cable/glass_fiber/lime",
+	"magenta": "ic2:block/electric/cable/glass_fiber/magenta",
+	"orange": "ic2:block/electric/cable/glass_fiber/orange",
+	"pink": "ic2:block/electric/cable/glass_fiber/pink",
+	"purple": "ic2:block/electric/cable/glass_fiber/purple",
+	"red": "ic2:block/electric/cable/glass_fiber/red",
+	"white": "ic2:block/electric/cable/glass_fiber/white",
+	"yellow": "ic2:block/electric/cable/glass_fiber/yellow"
+}

@@ -1,0 +1,18 @@
+{
+	"corner_bottom_left": "ic2:block/cfoam/reinforced/clear/corner_bottom_left",
+	"corner_bottom_right": "ic2:block/cfoam/reinforced/clear/corner_bottom_right",
+	"corner_top_left": "ic2:block/cfoam/reinforced/clear/corner_top_left",
+	"corner_top_right": "ic2:block/cfoam/reinforced/clear/corner_top_right",
+	"empty": "ic2:block/cfoam/reinforced/clear/empty",
+	"end_bottom": "ic2:block/cfoam/reinforced/clear/end_bottom",
+	"end_left": "ic2:block/cfoam/reinforced/clear/end_left",
+	"end_right": "ic2:block/cfoam/reinforced/clear/end_right",
+	"end_top": "ic2:block/cfoam/reinforced/clear/end_top",
+	"full": "ic2:block/cfoam/reinforced/clear/full",
+	"side_bottom": "ic2:block/cfoam/reinforced/clear/side_bottom",
+	"side_left": "ic2:block/cfoam/reinforced/clear/side_left",
+	"side_right": "ic2:block/cfoam/reinforced/clear/side_right",
+	"side_top": "ic2:block/cfoam/reinforced/clear/side_top",
+	"straight_horizontal": "ic2:block/cfoam/reinforced/clear/straight_horizontal",
+	"straight_vertical": "ic2:block/cfoam/reinforced/clear/straight_vertical"
+}

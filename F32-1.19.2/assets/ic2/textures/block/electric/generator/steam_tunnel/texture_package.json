@@ -1,0 +1,4 @@
+{
+	"active_overlay": "ic2:block/electric/generator/steam_tunnel/active_overlay",
+	"inactive_overlay": "ic2:block/electric/generator/steam_tunnel/inactive_overlay"
+}

@@ -1,0 +1,5 @@
+{
+	"down": "ic2:block/electric/battery_station/iv/down",
+	"side": "ic2:block/electric/battery_station/iv/side",
+	"up": "ic2:block/electric/battery_station/ev/up"
+}

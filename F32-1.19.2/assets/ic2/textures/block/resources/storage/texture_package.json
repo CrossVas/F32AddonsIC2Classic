@@ -1,0 +1,11 @@
+{
+	"aluminium_block": "ic2:block/resources/storage/aluminium_block",
+	"bronze_block": "ic2:block/resources/storage/bronze_block",
+	"charcoal_block": "ic2:block/resources/storage/charcoal_block",
+	"copper_block": "ic2:block/resources/storage/copper_block",
+	"refined_iron_block": "ic2:block/resources/storage/refined_iron_block",
+	"silver_block": "ic2:block/resources/storage/silver_block",
+	"tin_block": "ic2:block/resources/storage/tin_block",
+	"uranium_block_sides": "ic2:block/resources/storage/uranium_block_sides",
+	"uranium_block_top": "ic2:block/resources/storage/uranium_block_top"
+}

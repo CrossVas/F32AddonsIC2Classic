@@ -1,0 +1,14 @@
+{
+	"active_down": "ic2:block/electric/energy_storage/mfe/south",
+	"active_east": "ic2:block/electric/energy_storage/mfe/south",
+	"active_north": "ic2:block/electric/energy_storage/mfe/south",
+	"active_south": "ic2:block/electric/transformer/mv/active_south",
+	"active_up": "ic2:block/electric/energy_storage/mfe/south",
+	"active_west": "ic2:block/electric/energy_storage/mfe/south",
+	"inactive_down": "ic2:block/electric/energy_storage/mfe/south",
+	"inactive_east": "ic2:block/electric/energy_storage/mfe/south",
+	"inactive_north": "ic2:block/electric/energy_storage/mfe/south",
+	"inactive_south": "ic2:block/electric/transformer/mv/active_south",
+	"inactive_up": "ic2:block/electric/energy_storage/mfe/south",
+	"inactive_west": "ic2:block/electric/energy_storage/mfe/south"
+}

@@ -1,0 +1,16 @@
+{
+	"advanced_alloy": "ic2:item/ingots/advanced_alloy",
+	"aluminium": "ic2:item/ingots/aluminium",
+	"blaze_uranium": "ic2:item/ingots/blaze_uranium",
+	"bronze": "ic2:item/ingots/bronze",
+	"charcoal_uranium": "ic2:item/ingots/charcoal_uranium",
+	"copper": "ic2:item/ingots/copper",
+	"enderpearl_uranium": "ic2:item/ingots/enderpearl_uranium",
+	"netherstar_uranium": "ic2:item/ingots/netherstar_uranium",
+	"polished_gold": "ic2:item/ingots/polished_gold",
+	"redstone_uranium": "ic2:item/ingots/redstone_uranium",
+	"refined_iron": "ic2:item/ingots/refined_iron",
+	"silver": "ic2:item/ingots/silver",
+	"tin": "ic2:item/ingots/tin",
+	"uranium": "ic2:item/ingots/uranium"
+}

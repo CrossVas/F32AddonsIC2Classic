@@ -1,0 +1,8 @@
+{
+	"down": "ic2:block/electric/cable/redirector/master/down",
+	"east": "ic2:block/electric/cable/redirector/master/down",
+	"north": "ic2:block/electric/cable/redirector/master/down",
+	"south": "ic2:block/electric/cable/redirector/master/south",
+	"up": "ic2:block/electric/cable/redirector/master/down",
+	"west": "ic2:block/electric/cable/redirector/master/down"
+}

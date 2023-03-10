@@ -1,0 +1,22 @@
+{
+	"active_activity_card": "ic2:item/tools/monitor/active_activity_card",
+	"active_detector_card": "ic2:item/tools/monitor/active_detector_card",
+	"active_energy_card": "ic2:item/tools/monitor/active_energy_card",
+	"active_inv_card": "ic2:item/tools/monitor/active_inv_card",
+	"active_lag_card": "ic2:item/tools/monitor/active_lag_card",
+	"active_link_card": "ic2:item/tools/monitor/active_link_card",
+	"active_progress_card": "ic2:item/tools/monitor/active_progress_card",
+	"active_reactor_card": "ic2:item/tools/monitor/active_reactor_card",
+	"active_text_card": "ic2:item/tools/monitor/active_text_card",
+	"active_time_card": "ic2:item/tools/monitor/active_time_card",
+	"inactive_activity_card": "ic2:item/tools/monitor/inactive_activity_card",
+	"inactive_detector_card": "ic2:item/tools/monitor/inactive_detector_card",
+	"inactive_energy_card": "ic2:item/tools/monitor/inactive_energy_card",
+	"inactive_inv_card": "ic2:item/tools/monitor/inactive_inv_card",
+	"inactive_lag_card": "ic2:item/tools/monitor/active_lag_card",
+	"inactive_link_card": "ic2:item/tools/monitor/inactive_link_card",
+	"inactive_progress_card": "ic2:item/tools/monitor/inactive_progress_card",
+	"inactive_reactor_card": "ic2:item/tools/monitor/inactive_reactor_card",
+	"inactive_text_card": "ic2:item/tools/monitor/inactive_text_card",
+	"inactive_time_card": "ic2:item/tools/monitor/inactive_time_card"
+}

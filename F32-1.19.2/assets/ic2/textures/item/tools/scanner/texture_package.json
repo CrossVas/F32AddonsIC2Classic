@@ -1,0 +1,16 @@
+{
+	"adjustable_ovd": "ic2:item/tools/scanner/adjustable_ovd",
+	"big_ranged_od": "ic2:item/tools/scanner/big_ranged_od",
+	"big_ranged_ov": "ic2:item/tools/scanner/big_ranged_ov",
+	"filtered_fluid": "ic2:item/tools/scanner/filtered_fluid",
+	"filtered": "ic2:item/tools/scanner/filtered",
+	"fluid": "ic2:item/tools/scanner/fluid",
+	"high_ovd": "ic2:item/tools/scanner/high_ovd",
+	"low_ovd": "ic2:item/tools/scanner/low_ovd",
+	"medium_ovd": "ic2:item/tools/scanner/medium_ovd",
+	"od": "ic2:item/tools/scanner/od",
+	"ov": "ic2:item/tools/scanner/ov",
+	"quarry": "ic2:item/tools/scanner/quarry",
+	"ranged_od": "ic2:item/tools/scanner/ranged_od",
+	"ranged_ov": "ic2:item/tools/scanner/ranged_ov"
+}

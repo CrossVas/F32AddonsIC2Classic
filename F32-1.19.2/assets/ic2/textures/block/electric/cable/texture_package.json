@@ -1,0 +1,15 @@
+{
+	"aluminium": "ic2:block/electric/cable/aluminium",
+	"bronze": "ic2:block/electric/cable/bronze",
+	"cable_plug": "ic2:block/electric/cable/cable_plug",
+	"copper": "ic2:block/electric/cable/copper",
+	"gold": "ic2:block/electric/cable/gold",
+	"iron": "ic2:block/electric/cable/iron",
+	"powered_comparing": "ic2:block/electric/cable/powered_comparing",
+	"powered_detector": "ic2:block/electric/cable/powered_detector",
+	"powered_splitter": "ic2:block/electric/cable/powered_comparing",
+	"tin": "ic2:block/electric/cable/tin",
+	"unpowered_comparing": "ic2:block/electric/cable/unpowered_comparing",
+	"unpowered_detector": "ic2:block/electric/cable/unpowered_detector",
+	"unpowered_splitter": "ic2:block/electric/cable/unpowered_comparing"
+}

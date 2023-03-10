@@ -1,0 +1,6 @@
+{
+	"base_fluid_still": "ic2:block/fluids/base_fluid_still",
+	"blazing_lava_still": "ic2:block/fluids/blazing_lava_still",
+	"steam_still": "ic2:block/fluids/steam_still",
+	"woodgas_still": "ic2:block/fluids/woodgas_still"
+}

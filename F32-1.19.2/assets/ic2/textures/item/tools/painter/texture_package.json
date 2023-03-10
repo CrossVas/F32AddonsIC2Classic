@@ -1,0 +1,19 @@
+{
+	"black": "ic2:item/tools/painter/black",
+	"blue": "ic2:item/tools/painter/blue",
+	"brown": "ic2:item/tools/painter/brown",
+	"cyan": "ic2:item/tools/painter/cyan",
+	"empty": "ic2:item/tools/painter/empty",
+	"gray": "ic2:item/tools/painter/gray",
+	"green": "ic2:item/tools/painter/green",
+	"light_blue": "ic2:item/tools/painter/light_blue",
+	"light_gray": "ic2:item/tools/painter/light_gray",
+	"lime": "ic2:item/tools/painter/lime",
+	"magenta": "ic2:item/tools/painter/magenta",
+	"orange": "ic2:item/tools/painter/orange",
+	"pink": "ic2:item/tools/painter/pink",
+	"purple": "ic2:item/tools/painter/purple",
+	"red": "ic2:item/tools/painter/red",
+	"white": "ic2:item/tools/painter/white",
+	"yellow": "ic2:item/tools/painter/yellow"
+}

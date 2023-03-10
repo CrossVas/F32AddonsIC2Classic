@@ -1,0 +1,20 @@
+{
+	"iron_fence": "ic2:block/machine/stone/iron_furnace/active_up",
+	"mining_pipe_bottom": "ic2:block/misc/mining_pipe_bottom",
+	"mining_pipe_shaft": "ic2:block/electric/cable/cable_plug",
+	"plasma": "ic2:block/misc/plasma",
+	"player_detector_active": "ic2:block/misc/player_detector_active",
+	"player_detector_inactive": "ic2:block/misc/player_detector_inactive",
+	"player_detector_map": "ic2:block/misc/player_detector_map",
+	"rubber_sheet": "ic2:block/misc/rubber_sheet",
+	"sticky_resin": "ic2:block/misc/sticky_resin",
+	"tank_controller_overlay_half_transparent": "ic2:block/misc/tank_controller_overlay_half_transparent",
+	"tank_controller_overlay": "ic2:block/misc/tank_controller_overlay",
+	"tank_controller": "ic2:block/misc/tank_controller",
+	"treetap_and_bucket": "ic2:block/misc/treetap_and_bucket",
+	"unused_0": "ic2:block/misc/unused_0",
+	"unused_1": "ic2:block/misc/unused_1",
+	"valve_overlay_half_transparent": "ic2:block/misc/valve_overlay_half_transparent",
+	"valve_overlay": "ic2:block/misc/valve_overlay",
+	"valve": "ic2:block/misc/valve"
+}

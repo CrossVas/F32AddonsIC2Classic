@@ -1,0 +1,8 @@
+{
+	"down": "ic2:block/electric/battery_station/mv/down",
+	"east": "ic2:block/personal/fluid_o_mat/east",
+	"north": "ic2:block/electric/energy_storage/mfe/east",
+	"south": "ic2:block/personal/fluid_o_mat/south",
+	"up": "ic2:block/electric/energy_storage/mfe/up",
+	"west": "ic2:block/personal/fluid_o_mat/west"
+}

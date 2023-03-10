@@ -1,0 +1,12 @@
+{
+	"automation": "ic2:item/upgrades/inventory/automation",
+	"item_limiter": "ic2:item/upgrades/inventory/item_limiter",
+	"redstone_deconductor": "ic2:item/upgrades/inventory/redstone_deconductor",
+	"rotation_disabler": "ic2:item/upgrades/inventory/rotation_disabler",
+	"slot_access": "ic2:item/upgrades/inventory/slot_access",
+	"slot_diversity": "ic2:item/upgrades/inventory/slot_diversity",
+	"slot_side": "ic2:item/upgrades/inventory/slot_side",
+	"slot_type": "ic2:item/upgrades/inventory/slot_type",
+	"stack_diversity": "ic2:item/upgrades/inventory/stack_diversity",
+	"stack_limiter": "ic2:item/upgrades/inventory/stack_limiter"
+}

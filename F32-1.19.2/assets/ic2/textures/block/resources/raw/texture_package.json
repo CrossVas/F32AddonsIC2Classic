@@ -1,0 +1,9 @@
+{
+	"raw_aluminium_block": "ic2:block/resources/raw/raw_aluminium_block",
+	"raw_copper_block": "ic2:block/resources/raw/raw_copper_block",
+	"raw_gold_block": "ic2:block/resources/raw/raw_gold_block",
+	"raw_iron_block": "ic2:block/resources/raw/raw_iron_block",
+	"raw_silver_block": "ic2:block/resources/raw/raw_silver_block",
+	"raw_tin_block": "ic2:block/resources/raw/raw_tin_block",
+	"raw_uranium_block": "ic2:block/resources/raw/raw_uranium_block"
+}

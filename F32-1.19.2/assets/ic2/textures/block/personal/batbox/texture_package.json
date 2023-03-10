@@ -1,0 +1,8 @@
+{
+	"down": "ic2:block/personal/batbox/down",
+	"east": "ic2:block/personal/batbox/down",
+	"north": "ic2:block/personal/batbox/down",
+	"south": "ic2:block/personal/batbox/south",
+	"up": "ic2:block/personal/batbox/down",
+	"west": "ic2:block/personal/batbox/down"
+}

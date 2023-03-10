@@ -1,0 +1,8 @@
+{
+	"down": "ic2:block/electric/battery_station/mv/down",
+	"east": "ic2:block/machine/nv/fluid_opaque_expansion/east",
+	"north": "ic2:block/machine/nv/fluid_opaque_expansion/east",
+	"south": "ic2:block/machine/nv/fluid_opaque_expansion/east",
+	"up": "ic2:block/machine/nv/fluid_opaque_expansion/up",
+	"west": "ic2:block/machine/nv/fluid_opaque_expansion/east"
+}

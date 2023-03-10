@@ -1,0 +1,23 @@
+{
+	"air_refill": "ic2:item/armor/modules/air_refill",
+	"auto_feed": "ic2:item/armor/modules/auto_feed",
+	"base": "ic2:item/armor/modules/base",
+	"charger": "ic2:item/armor/modules/charger",
+	"energy_hud": "ic2:item/armor/modules/energy_hud",
+	"energy_shield_overlay": "ic2:item/armor/modules/energy_shield_overlay",
+	"extinguish": "ic2:item/armor/modules/extinguish",
+	"food_storage": "ic2:item/armor/modules/food_storage",
+	"golden": "ic2:item/armor/modules/golden",
+	"jump_boost": "ic2:item/armor/modules/jump_boost",
+	"lava": "ic2:item/armor/modules/lava",
+	"light": "ic2:item/armor/modules/light",
+	"parachute": "ic2:item/armor/modules/parachute",
+	"potion_protection": "ic2:item/armor/modules/potion_protection",
+	"potion_storage": "ic2:item/armor/modules/potion_storage",
+	"sonar": "ic2:item/armor/modules/sonar",
+	"speed": "ic2:item/armor/modules/speed",
+	"step_assist": "ic2:item/armor/modules/step_assist",
+	"tank_storage": "ic2:item/armor/modules/tank_storage",
+	"tube_higlighter": "ic2:item/armor/modules/tube_higlighter",
+	"water_walker": "ic2:item/armor/modules/water_walker"
+}

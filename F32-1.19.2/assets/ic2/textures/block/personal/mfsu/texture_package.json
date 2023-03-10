@@ -1,0 +1,8 @@
+{
+	"down": "ic2:block/personal/mfsu/down",
+	"east": "ic2:block/personal/mfsu/down",
+	"north": "ic2:block/personal/mfsu/down",
+	"south": "ic2:block/personal/mfsu/south",
+	"up": "ic2:block/personal/mfsu/down",
+	"west": "ic2:block/personal/mfsu/down"
+}

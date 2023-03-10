@@ -1,0 +1,10 @@
+{
+	"capacity_pipe": "ic2:block/transport/pipes/capacity_pipe",
+	"detector_pipe_active": "ic2:block/transport/pipes/detector_pipe_active",
+	"detector_pipe_inactive": "ic2:block/transport/pipes/detector_pipe_inactive",
+	"pressure_pipe": "ic2:block/transport/pipes/pressure_pipe",
+	"small_pipe": "ic2:block/transport/pipes/small_pipe",
+	"splitter_pipe_active": "ic2:block/transport/pipes/splitter_pipe_active",
+	"splitter_pipe_inactive": "ic2:block/transport/pipes/splitter_pipe_inactive",
+	"void_pipe": "ic2:block/transport/pipes/void_pipe"
+}

@@ -1,0 +1,6 @@
+{
+	"advanced_heat": "ic2:item/reactor/exchanger/advanced_heat",
+	"component_heat": "ic2:item/reactor/exchanger/component_heat",
+	"core_heat": "ic2:item/reactor/exchanger/core_heat",
+	"heat": "ic2:item/reactor/exchanger/heat"
+}

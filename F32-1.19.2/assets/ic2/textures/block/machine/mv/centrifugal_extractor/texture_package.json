@@ -1,0 +1,14 @@
+{
+	"active_down": "ic2:block/machines/bottom",
+	"active_east": "ic2:block/machines/side_green",
+	"active_north": "ic2:block/machines/side_green",
+	"active_south": "ic2:block/machines/extractor_active",
+	"active_up": "ic2:block/machines/advanced",
+	"active_west": "ic2:block/machines/side_green",
+	"inactive_down": "ic2:block/machines/bottom",
+	"inactive_east": "ic2:block/machines/side_empty",
+	"inactive_north": "ic2:block/machines/side_empty",
+	"inactive_south": "ic2:block/machines/extractor",
+	"inactive_up": "ic2:block/machines/advanced",
+	"inactive_west": "ic2:block/machines/side_empty"
+}

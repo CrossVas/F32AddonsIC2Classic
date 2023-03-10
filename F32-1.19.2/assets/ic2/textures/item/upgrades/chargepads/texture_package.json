@@ -1,0 +1,10 @@
+{
+	"advanced_field_expansion": "ic2:item/upgrades/chargepads/advanced_field_expansion",
+	"armor_priority": "ic2:item/upgrades/chargepads/armor_priority",
+	"basic_field_expansion": "ic2:item/upgrades/chargepads/basic_field_expansion",
+	"damage_conversion": "ic2:item/upgrades/chargepads/damage_conversion",
+	"drain_conversion": "ic2:item/upgrades/chargepads/drain_conversion",
+	"field_expansion": "ic2:item/upgrades/chargepads/field_expansion",
+	"proximity_booster": "ic2:item/upgrades/chargepads/proximity_booster",
+	"wide_band_booster": "ic2:item/upgrades/chargepads/wide_band_booster"
+}
