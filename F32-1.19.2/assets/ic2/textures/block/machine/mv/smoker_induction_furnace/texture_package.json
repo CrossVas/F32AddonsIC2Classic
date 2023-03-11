@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/battery_station/mv/down",
-	"active_east": "ic2:block/electric/generator/slag/active_up",
-	"active_north": "ic2:block/electric/energy_storage/mfe/east",
-	"active_south": "ic2:block/machine/lv/electric_smoker/active_south",
-	"active_up": "ic2:block/machine/lv/electric_smoker/active_up",
-	"active_west": "ic2:block/electric/generator/slag/active_up",
-	"inactive_down": "ic2:block/electric/battery_station/mv/down",
-	"inactive_east": "ic2:block/electric/generator/slag/active_up",
-	"inactive_north": "ic2:block/electric/energy_storage/mfe/east",
-	"inactive_south": "ic2:block/machine/lv/electric_smoker/inactive_south",
-	"inactive_up": "ic2:block/machine/lv/electric_smoker/active_up",
-	"inactive_west": "ic2:block/electric/generator/slag/active_up"
+        "active_down": "ic2:block/machines/bottom",
+        "active_east": "ic2:block/machines/advanced",
+        "active_north": "ic2:block/machines/side",
+        "active_south": "ic2:block/machines/e_smoker_active",
+        "active_up": "ic2:block/machines/top_smoker_active",
+        "active_west": "ic2:block/machines/advanced",
+        "inactive_down": "ic2:block/machines/bottom",
+        "inactive_east": "ic2:block/machines/advanced",
+        "inactive_north": "ic2:block/machines/side",
+        "inactive_south": "ic2:block/machines/e_smoker",
+        "inactive_up": "ic2:block/machines/top_smoker",
+        "inactive_west": "ic2:block/machines/advanced"
 }
