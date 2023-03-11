@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/battery_station/mv/down",
-	"active_east": "ic2:block/machine/ev/uu_crop_library/active_east",
-	"active_north": "ic2:block/machine/ev/uu_crop_library/active_west",
-	"active_south": "ic2:block/machine/ev/uu_crop_library/active_west",
-	"active_up": "ic2:block/machine/hv/crop_library/active_up",
-	"active_west": "ic2:block/machine/ev/uu_crop_library/active_west",
-	"inactive_down": "ic2:block/electric/battery_station/mv/down",
-	"inactive_east": "ic2:block/machine/ev/uu_crop_library/inactive_east",
-	"inactive_north": "ic2:block/machine/ev/uu_crop_library/inactive_west",
-	"inactive_south": "ic2:block/machine/ev/uu_crop_library/inactive_west",
-	"inactive_up": "ic2:block/machine/ev/uu_crop_library/inactive_up",
-	"inactive_west": "ic2:block/machine/ev/uu_crop_library/inactive_west"
+        "active_down": "ic2:block/machines/bottom",
+        "active_east": "ic2:block/machines/crop_library_active",
+        "active_north": "ic2:block/machines/crop_library_active",
+        "active_south": "ic2:block/machines/crop_library_active",
+        "active_up": "ic2:block/machines/top_screen_blue_active",
+        "active_west": "ic2:block/machines/crop_library_active",
+        "inactive_down": "ic2:block/machines/bottom",
+        "inactive_east": "ic2:block/machines/crop_library",
+        "inactive_north": "ic2:block/machines/crop_library",
+        "inactive_south": "ic2:block/machines/crop_library",
+        "inactive_up": "ic2:block/machines/top_screen",
+        "inactive_west": "ic2:block/machines/crop_library"
 }
