@@ -1,8 +1,8 @@
 {
-	"down": "ic2:block/cfoam/reinforced/stone",
-	"east": "ic2:block/machine/luv/fusion_reactor/east",
-	"north": "ic2:block/machine/luv/fusion_reactor/east",
-	"south": "ic2:block/machine/luv/fusion_reactor/east",
-	"up": "ic2:block/machine/luv/fusion_reactor/up",
-	"west": "ic2:block/machine/luv/fusion_reactor/east"
+	"down": "ic2:block/machines/bottom_reinforced",
+	"east": "ic2:block/machines/side_fusion",
+	"north": "ic2:block/machines/side_fusion",
+	"south": "ic2:block/machines/side_fusion",
+	"up": "ic2:block/machines/top_fusion",
+	"west": "ic2:block/machines/side_fusion"
 }
