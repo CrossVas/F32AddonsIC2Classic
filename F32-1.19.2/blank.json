@@ -1,14 +1,14 @@
 {
         "active_down": "ic2:block/machines/bottom",
-        "active_east": "ic2:block/machines/side_red",
+        "active_east": "ic2:block/machines/side_rare_earth_extractor",
         "active_north": "ic2:block/machines/side",
-        "active_south": "ic2:block/machines/electrolyzer_active",
+        "active_south": "ic2:block/machines/rare_earth_extractor_adv_active",
         "active_up": "ic2:block/machines/advanced",
-        "active_west": "ic2:block/machines/side_red",
+        "active_west": "ic2:block/machines/side_rare_earth_extractor",
         "inactive_down": "ic2:block/machines/bottom",
         "inactive_east": "ic2:block/machines/side_empty",
         "inactive_north": "ic2:block/machines/side",
-        "inactive_south": "ic2:block/machines/electrolyzer",
+        "inactive_south": "ic2:block/machines/rare_earth_extractor_adv",
         "inactive_up": "ic2:block/machines/advanced",
         "inactive_west": "ic2:block/machines/side_empty"
 }
