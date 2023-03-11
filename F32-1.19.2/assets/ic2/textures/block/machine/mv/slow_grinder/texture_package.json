@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/battery_station/mv/down",
-	"active_east": "ic2:block/electric/generator/slag/active_up",
-	"active_north": "ic2:block/electric/generator/slag/active_up",
-	"active_south": "ic2:block/machine/hv/colossal_recycler/active_up",
-	"active_up": "ic2:block/machine/hv/colossal_macerator/active_up",
-	"active_west": "ic2:block/electric/generator/slag/active_up",
-	"inactive_down": "ic2:block/electric/battery_station/mv/down",
-	"inactive_east": "ic2:block/electric/generator/slag/active_up",
-	"inactive_north": "ic2:block/electric/generator/slag/active_up",
-	"inactive_south": "ic2:block/machine/hv/colossal_recycler/active_up",
-	"inactive_up": "ic2:block/machine/hv/colossal_macerator/inactive_up",
-	"inactive_west": "ic2:block/electric/generator/slag/active_up"
+        "active_down": "ic2:block/machines/bottom",
+        "active_east": "ic2:block/machines/advanced",
+        "active_north": "ic2:block/machines/side",
+        "active_south": "ic2:block/machines/slow_grinder_active",
+        "active_up": "ic2:block/machines/top_macerator_active",
+        "active_west": "ic2:block/machines/advanced",
+        "inactive_down": "ic2:block/machines/bottom",
+        "inactive_east": "ic2:block/machines/advanced",
+        "inactive_north": "ic2:block/machines/side",
+        "inactive_south": "ic2:block/machines/slow_grinder",
+        "inactive_up": "ic2:block/machines/top_macerator",
+        "inactive_west": "ic2:block/machines/advanced"
 }
