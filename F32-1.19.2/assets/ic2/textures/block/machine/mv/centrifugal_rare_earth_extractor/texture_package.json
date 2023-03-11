@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/battery_station/mv/down",
-	"active_east": "ic2:block/machine/lv/rare_earth_extractor/active_east",
-	"active_north": "ic2:block/machine/lv/rare_earth_extractor/active_north",
-	"active_south": "ic2:block/machine/mv/centrifugal_rare_earth_extractor/active_south",
-	"active_up": "ic2:block/electric/generator/slag/active_up",
-	"active_west": "ic2:block/machine/lv/rare_earth_extractor/active_north",
-	"inactive_down": "ic2:block/electric/battery_station/mv/down",
-	"inactive_east": "ic2:block/machine/lv/rare_earth_extractor/inactive_east",
-	"inactive_north": "ic2:block/machine/lv/rare_earth_extractor/inactive_east",
-	"inactive_south": "ic2:block/machine/mv/centrifugal_rare_earth_extractor/inactive_south",
-	"inactive_up": "ic2:block/electric/generator/slag/active_up",
-	"inactive_west": "ic2:block/machine/lv/rare_earth_extractor/inactive_east"
+	"active_down": "ic2:block/machines/bottom",
+	"active_east": "ic2:block/machines/side_rare_earth_extractor",
+	"active_north": "ic2:block/machines/side",
+	"active_south": "ic2:block/machines/rare_earth_extractor_adv_active",
+	"active_up": "ic2:block/machines/advanced",
+	"active_west": "ic2:block/machines/side_rare_earth_extractor",
+	"inactive_down": "ic2:block/machines/bottom",
+	"inactive_east": "ic2:block/machines/side_empty",
+	"inactive_north": "ic2:block/machines/side",
+	"inactive_south": "ic2:block/machines/rare_earth_extractor_adv",
+	"inactive_up": "ic2:block/machines/advanced",
+	"inactive_west": "ic2:block/machines/side_empty"
 }
