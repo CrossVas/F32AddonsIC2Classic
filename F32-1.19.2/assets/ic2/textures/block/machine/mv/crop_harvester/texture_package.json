@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/battery_station/mv/down",
-	"active_east": "ic2:block/machine/mv/crop_harvester/active_east",
-	"active_north": "ic2:block/machine/mv/crop_harvester/active_east",
-	"active_south": "ic2:block/machine/mv/crop_harvester/active_east",
-	"active_up": "ic2:block/machine/mv/crop_harvester/active_up",
-	"active_west": "ic2:block/machine/mv/crop_harvester/active_east",
-	"inactive_down": "ic2:block/electric/battery_station/mv/down",
-	"inactive_east": "ic2:block/machine/mv/crop_harvester/inactive_east",
-	"inactive_north": "ic2:block/machine/mv/crop_harvester/inactive_east",
-	"inactive_south": "ic2:block/machine/mv/crop_harvester/inactive_east",
-	"inactive_up": "ic2:block/machine/mv/crop_harvester/inactive_up",
-	"inactive_west": "ic2:block/machine/mv/crop_harvester/inactive_east"
+        "active_down": "ic2:block/machines/bottom",
+        "active_east": "ic2:block/machines/crop_harvester_active",
+        "active_north": "ic2:block/machines/crop_harvester_active",
+        "active_south": "ic2:block/machines/crop_harvester_active",
+        "active_up": "ic2:block/machines/top_crop_harvester_active",
+        "active_west": "ic2:block/machines/crop_harvester_active",
+        "inactive_down": "ic2:block/machines/bottom",
+        "inactive_east": "ic2:block/machines/crop_harvester",
+        "inactive_north": "ic2:block/machines/crop_harvester",
+        "inactive_south": "ic2:block/machines/crop_harvester",
+        "inactive_up": "ic2:block/machines/top_crop_harvester",
+        "inactive_west": "ic2:block/machines/crop_harvester"
 }
