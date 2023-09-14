@@ -1,8 +1,8 @@
 {
-	"down": "ic2:block/electric/cable/redirector/master/down",
-	"east": "ic2:block/electric/cable/redirector/master/down",
-	"north": "ic2:block/electric/cable/redirector/master/down",
-	"south": "ic2:block/electric/cable/redirector/master/south",
-	"up": "ic2:block/electric/cable/redirector/master/down",
-	"west": "ic2:block/electric/cable/redirector/master/down"
+	"down": "ic2:block/electric/cable/redirector/in_x4",
+	"east": "ic2:block/electric/cable/redirector/in_x4",
+	"north": "ic2:block/electric/cable/redirector/in_x4",
+	"south": "ic2:block/electric/cable/redirector/out_x1",
+	"up": "ic2:block/electric/cable/redirector/in_x4",
+	"west": "ic2:block/electric/cable/redirector/in_x4"
 }
