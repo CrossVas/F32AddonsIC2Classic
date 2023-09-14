@@ -1,14 +1,14 @@
 {
-        "active_down": "ic2:block/machines/advanced",
-        "active_east": "ic2:block/machines/side_ranged_pump_active",
-        "active_north": "ic2:block/machines/advanced",
-        "active_south": "ic2:block/machines/ranged_pump_active",
-        "active_up": "ic2:block/machines/top_overclocked_pump_active",
-        "active_west": "ic2:block/machines/side_ranged_pump_active",
-        "inactive_down": "ic2:block/machines/advanced",
-        "inactive_east": "ic2:block/machines/side_ranged_pump",
-        "inactive_north": "ic2:block/machines/advanced",
-        "inactive_south": "ic2:block/machines/ranged_pump",
-        "inactive_up": "ic2:block/machines/top_overclocked_pump",
-        "inactive_west": "ic2:block/machines/side_ranged_pump"
+        "active_down": "ic2:block/common/advanced",
+        "active_east": "ic2:block/machine/mv/ranged_pump/side_active",
+        "active_north": "ic2:block/common/advanced",
+        "active_south": "ic2:block/machine/mv/ranged_pump/front_active",
+        "active_up": "ic2:block/machine/mv/overclocked_pump/top_active",
+        "active_west": "ic2:block/machine/mv/ranged_pump/side_active",
+        "inactive_down": "ic2:block/common/advanced",
+        "inactive_east": "ic2:block/machine/mv/ranged_pump/side",
+        "inactive_north": "ic2:block/common/advanced",
+        "inactive_south": "ic2:block/machine/mv/ranged_pump/front",
+        "inactive_up": "ic2:block/machine/mv/overclocked_pump/top",
+        "inactive_west": "ic2:block/machine/mv/ranged_pump/side"
 }

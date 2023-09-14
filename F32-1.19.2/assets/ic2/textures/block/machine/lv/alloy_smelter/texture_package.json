@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/machines/bottom",
-	"active_east": "ic2:block/machines/side",
-	"active_north": "ic2:block/machines/side",
-	"active_south": "ic2:block/machines/alloy_smelter_active",
-	"active_up": "ic2:block/machines/top_smelter_active",
-	"active_west": "ic2:block/machines/side",
-	"inactive_down": "ic2:block/machines/bottom",
-	"inactive_east": "ic2:block/machines/side",
-	"inactive_north": "ic2:block/machines/side",
-	"inactive_south": "ic2:block/machines/alloy_smelter",
-	"inactive_up": "ic2:block/machines/top_smelter",
-	"inactive_west": "ic2:block/machines/side"
+	"active_down": "ic2:block/common/bottom",
+	"active_east": "ic2:block/common/side",
+	"active_north": "ic2:block/common/side",
+	"active_south": "ic2:block/machine/lv/alloy_smelter/front_active",
+	"active_up": "ic2:block/machine/lv/alloy_smelter/top_active",
+	"active_west": "ic2:block/common/side",
+	"inactive_down": "ic2:block/common/bottom",
+	"inactive_east": "ic2:block/common/side",
+	"inactive_north": "ic2:block/common/side",
+	"inactive_south": "ic2:block/machine/lv/alloy_smelter/front",
+	"inactive_up": "ic2:block/machine/lv/alloy_smelter/top",
+	"inactive_west": "ic2:block/common/side"
 }

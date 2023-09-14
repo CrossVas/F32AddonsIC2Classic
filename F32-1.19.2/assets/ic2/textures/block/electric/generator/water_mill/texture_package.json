@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/machines/bottom",
+	"active_down": "ic2:block/common/bottom",
 	"active_east": "ic2:block/electric/generator/water_mill/side",
 	"active_north": "ic2:block/electric/generator/water_mill/side",
 	"active_south": "ic2:block/electric/generator/water_mill/side",
-	"active_up": "ic2:block/machines/top",
+	"active_up": "ic2:block/common/top",
 	"active_west": "ic2:block/electric/generator/water_mill/side",
 	"inactive_down": "ic2:block/electric/battery_station/mv/down",
 	"inactive_east": "ic2:block/electric/generator/water_mill/side",
 	"inactive_north": "ic2:block/electric/generator/water_mill/side",
 	"inactive_south": "ic2:block/electric/generator/water_mill/side",
-	"inactive_up": "ic2:block/machines/top",
+	"inactive_up": "ic2:block/common/top",
 	"inactive_west": "ic2:block/electric/generator/water_mill/side"
 }

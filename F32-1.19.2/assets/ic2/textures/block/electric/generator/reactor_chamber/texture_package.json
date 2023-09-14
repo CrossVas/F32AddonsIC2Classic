@@ -1,5 +1,5 @@
 {
-	"down": "ic2:block/machines/bottom",
+	"down": "ic2:block/common/bottom",
 	"side": "ic2:block/electric/generator/reactor_chamber/side",
-	"up": "ic2:block/machines/top"
+	"up": "ic2:block/common/top"
 }

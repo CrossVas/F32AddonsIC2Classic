@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/machines/bottom",
-	"active_east": "ic2:block/machines/side_red",
-	"active_north": "ic2:block/machines/side_red",
-	"active_south": "ic2:block/machines/side_red",
-	"active_up": "ic2:block/machines/top",
-	"active_west": "ic2:block/machines/side_empty",
-	"inactive_down": "ic2:block/machines/bottom",
-	"inactive_east": "ic2:block/machines/side_empty",
-	"inactive_north": "ic2:block/machines/side_empty",
-	"inactive_south": "ic2:block/machines/side_empty",
-	"inactive_up": "ic2:block/machines/top",
-	"inactive_west": "ic2:block/machines/side_empty"
+	"active_down": "ic2:block/common/bottom",
+	"active_east": "ic2:block/common/side_red",
+	"active_north": "ic2:block/common/side_red",
+	"active_south": "ic2:block/common/side_red",
+	"active_up": "ic2:block/common/top",
+	"active_west": "ic2:block/common/side_empty",
+	"inactive_down": "ic2:block/common/bottom",
+	"inactive_east": "ic2:block/common/side_empty",
+	"inactive_north": "ic2:block/common/side_empty",
+	"inactive_south": "ic2:block/common/side_empty",
+	"inactive_up": "ic2:block/common/top",
+	"inactive_west": "ic2:block/common/side_empty"
 }

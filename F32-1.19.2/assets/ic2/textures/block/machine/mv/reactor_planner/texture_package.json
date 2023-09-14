@@ -1,14 +1,14 @@
 {
-        "active_down": "ic2:block/machines/side_reactor_planner",
-        "active_east": "ic2:block/machines/side_reactor_planner",
-        "active_north": "ic2:block/machines/side_reactor_planner",
-        "active_south": "ic2:block/machines/reactor_planner_active",
-        "active_up": "ic2:block/machines/top_reactor_planner_active",
-        "active_west": "ic2:block/machines/side_reactor_planner",
-        "inactive_down": "ic2:block/machines/side_reactor_planner",
-        "inactive_east": "ic2:block/machines/side_reactor_planner",
-        "inactive_north": "ic2:block/machines/side_reactor_planner",
-        "inactive_south": "ic2:block/machines/reactor_planner",
-        "inactive_up": "ic2:block/machines/top_reactor_planner",
-        "inactive_west": "ic2:block/machines/side_reactor_planner"
+        "active_down": "ic2:block/machine/mv/reactor_planner/side",
+        "active_east": "ic2:block/machine/mv/reactor_planner/side",
+        "active_north": "ic2:block/machine/mv/reactor_planner/side",
+        "active_south": "ic2:block/machine/mv/reactor_planner/front_active",
+        "active_up": "ic2:block/machine/mv/reactor_planner/top_active",
+        "active_west": "ic2:block/machine/mv/reactor_planner/side",
+        "inactive_down": "ic2:block/machine/mv/reactor_planner/side",
+        "inactive_east": "ic2:block/machine/mv/reactor_planner/side",
+        "inactive_north": "ic2:block/machine/mv/reactor_planner/side",
+        "inactive_south": "ic2:block/machine/mv/reactor_planner/front",
+        "inactive_up": "ic2:block/machine/mv/reactor_planner/top",
+        "inactive_west": "ic2:block/machine/mv/reactor_planner/side"
 }

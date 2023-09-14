@@ -1,8 +1,8 @@
 {
-	"down": "ic2:block/machines/structure",
-	"east": "ic2:block/machines/structure",
-	"north": "ic2:block/machines/structure",
-	"south": "ic2:block/machines/structure",
-	"up": "ic2:block/machines/structure",
-	"west": "ic2:block/machines/structure"
+	"down": "ic2:block/common/structure",
+	"east": "ic2:block/common/structure",
+	"north": "ic2:block/common/structure",
+	"south": "ic2:block/common/structure",
+	"up": "ic2:block/common/structure",
+	"west": "ic2:block/common/structure"
 }

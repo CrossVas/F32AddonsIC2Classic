@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/machines/bottom",
-	"active_east": "ic2:block/machines/side_sawmill_active",
-	"active_north": "ic2:block/machines/side",
-	"active_south": "ic2:block/machines/sawmill_active",
-	"active_up": "ic2:block/machines/top_compressor",
-	"active_west": "ic2:block/machines/side_sawmill_active",
-	"inactive_down": "ic2:block/machines/bottom",
-	"inactive_east": "ic2:block/machines/side_sawmill",
-	"inactive_north": "ic2:block/machines/side",
-	"inactive_south": "ic2:block/machines/sawmill",
-	"inactive_up": "ic2:block/machines/top_compressor",
-	"inactive_west": "ic2:block/machines/side_sawmill"
+	"active_down": "ic2:block/common/bottom",
+	"active_east": "ic2:block/machine/lv/saw_mill/side_active",
+	"active_north": "ic2:block/common/side",
+	"active_south": "ic2:block/machine/lv/saw_mill/front_active",
+	"active_up": "ic2:block/machine/lv/compressor/top",
+	"active_west": "ic2:block/machine/lv/saw_mill/side_active",
+	"inactive_down": "ic2:block/common/bottom",
+	"inactive_east": "ic2:block/machine/lv/saw_mill/side",
+	"inactive_north": "ic2:block/common/side",
+	"inactive_south": "ic2:block/machine/lv/saw_mill/front",
+	"inactive_up": "ic2:block/machine/lv/compressor/top",
+	"inactive_west": "ic2:block/machine/lv/saw_mill/side"
 }

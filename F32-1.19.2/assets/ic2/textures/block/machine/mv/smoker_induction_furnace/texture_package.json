@@ -1,14 +1,14 @@
 {
-        "active_down": "ic2:block/machines/bottom",
-        "active_east": "ic2:block/machines/advanced",
-        "active_north": "ic2:block/machines/side",
-        "active_south": "ic2:block/machines/e_smoker_active",
-        "active_up": "ic2:block/machines/top_smoker_active",
-        "active_west": "ic2:block/machines/advanced",
-        "inactive_down": "ic2:block/machines/bottom",
-        "inactive_east": "ic2:block/machines/advanced",
-        "inactive_north": "ic2:block/machines/side",
-        "inactive_south": "ic2:block/machines/e_smoker",
-        "inactive_up": "ic2:block/machines/top_smoker",
-        "inactive_west": "ic2:block/machines/advanced"
+        "active_down": "ic2:block/common/bottom",
+        "active_east": "ic2:block/common/advanced",
+        "active_north": "ic2:block/common/side",
+        "active_south": "ic2:block/machine/lv/electric_smoker/front_active",
+        "active_up": "ic2:block/machine/lv/electric_smoker/top_active",
+        "active_west": "ic2:block/common/advanced",
+        "inactive_down": "ic2:block/common/bottom",
+        "inactive_east": "ic2:block/common/advanced",
+        "inactive_north": "ic2:block/common/side",
+        "inactive_south": "ic2:block/machine/lv/electric_smoker/front",
+        "inactive_up": "ic2:block/machine/lv/electric_smoker/top",
+        "inactive_west": "ic2:block/common/advanced"
 }

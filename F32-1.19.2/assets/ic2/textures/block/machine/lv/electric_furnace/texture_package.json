@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/machines/bottom_iron",
-	"active_east": "ic2:block/machines/side_iron",
-	"active_north": "ic2:block/machines/side_iron",
-	"active_south": "ic2:block/machines/e_furnace_active",
-	"active_up": "ic2:block/machines/top_iron",
-	"active_west": "ic2:block/machines/side_iron",
-	"inactive_down": "ic2:block/machines/bottom_iron",
-	"inactive_east": "ic2:block/machines/side_iron",
-	"inactive_north": "ic2:block/machines/side_iron",
-	"inactive_south": "ic2:block/machines/e_furnace",
-	"inactive_up": "ic2:block/machines/top_iron",
-	"inactive_west": "ic2:block/machines/side_iron"
+	"active_down": "ic2:block/common/bottom_iron",
+	"active_east": "ic2:block/common/side_iron",
+	"active_north": "ic2:block/common/side_iron",
+	"active_south": "ic2:block/machine/lv/electric_furnace/front_active",
+	"active_up": "ic2:block/common/top_iron",
+	"active_west": "ic2:block/common/side_iron",
+	"inactive_down": "ic2:block/common/bottom_iron",
+	"inactive_east": "ic2:block/common/side_iron",
+	"inactive_north": "ic2:block/common/side_iron",
+	"inactive_south": "ic2:block/machine/lv/electric_furnace/front",
+	"inactive_up": "ic2:block/common/top_iron",
+	"inactive_west": "ic2:block/common/side_iron"
 }

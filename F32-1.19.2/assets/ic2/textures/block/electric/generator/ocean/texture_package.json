@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/machines/bottom",
+	"active_down": "ic2:block/common/bottom",
 	"active_east": "ic2:block/electric/generator/ocean/side_active",
 	"active_north": "ic2:block/electric/generator/ocean/front",
 	"active_south": "ic2:block/electric/generator/ocean/front",
-	"active_up": "ic2:block/machines/bottom",
+	"active_up": "ic2:block/common/bottom",
 	"active_west": "ic2:block/electric/generator/ocean/side_active",
-	"inactive_down": "ic2:block/machines/bottom",
-	"inactive_east": "ic2:block/machines/bottom",
+	"inactive_down": "ic2:block/common/bottom",
+	"inactive_east": "ic2:block/common/bottom",
 	"inactive_north": "ic2:block/electric/generator/ocean/front",
 	"inactive_south": "ic2:block/electric/generator/ocean/front",
-	"inactive_up": "ic2:block/machines/bottom",
-	"inactive_west": "ic2:block/machines/bottom"
+	"inactive_up": "ic2:block/common/bottom",
+	"inactive_west": "ic2:block/common/bottom"
 }

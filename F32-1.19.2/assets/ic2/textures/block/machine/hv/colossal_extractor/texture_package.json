@@ -1,14 +1,14 @@
 {
-        "active_down": "ic2:block/machines/stabilized",
-        "active_east": "ic2:block/machines/side_green",
-        "active_north": "ic2:block/machines/side",
-        "active_south": "ic2:block/machines/extractor_active",
-        "active_up": "ic2:block/machines/stabilized",
-        "active_west": "ic2:block/machines/side_green",
-        "inactive_down": "ic2:block/machines/stabilized",
-        "inactive_east": "ic2:block/machines/side_empty",
-        "inactive_north": "ic2:block/machines/side",
-        "inactive_south": "ic2:block/machines/extractor",
-        "inactive_up": "ic2:block/machines/stabilized",
-        "inactive_west": "ic2:block/machines/side_empty"
+        "active_down": "ic2:block/common/stabilized",
+        "active_east": "ic2:block/common/side_green",
+        "active_north": "ic2:block/common/side",
+        "active_south": "ic2:block/machine/lv/extractor/front_active",
+        "active_up": "ic2:block/common/stabilized",
+        "active_west": "ic2:block/common/side_green",
+        "inactive_down": "ic2:block/common/stabilized",
+        "inactive_east": "ic2:block/common/side_empty",
+        "inactive_north": "ic2:block/common/side",
+        "inactive_south": "ic2:block/machine/lv/extractor/front",
+        "inactive_up": "ic2:block/common/stabilized",
+        "inactive_west": "ic2:block/common/side_empty"
 }

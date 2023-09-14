@@ -3,12 +3,12 @@
 	"active_east": "ic2:block/electric/generator/hv_solar_panel/side",
 	"active_north": "ic2:block/electric/generator/hv_solar_panel/side",
 	"active_south": "ic2:block/electric/generator/hv_solar_panel/side",
-	"active_up": "ic2:block/machines/top_solar",
+	"active_up": "ic2:block/common/top_solar",
 	"active_west": "ic2:block/electric/generator/hv_solar_panel/side",
 	"inactive_down": "ic2:block/electric/generator/hv_solar_panel/bottom",
 	"inactive_east": "ic2:block/electric/generator/hv_solar_panel/side",
 	"inactive_north": "ic2:block/electric/generator/hv_solar_panel/side",
 	"inactive_south": "ic2:block/electric/generator/hv_solar_panel/side",
-	"inactive_up": "ic2:block/machines/top_solar",
+	"inactive_up": "ic2:block/common/top_solar",
 	"inactive_west": "ic2:block/electric/generator/hv_solar_panel/side"
 }

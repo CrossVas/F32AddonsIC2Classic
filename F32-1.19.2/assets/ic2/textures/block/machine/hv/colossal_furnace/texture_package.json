@@ -1,14 +1,14 @@
 {
-        "active_down": "ic2:block/machines/stabilized",
-        "active_east": "ic2:block/machines/side",
-        "active_north": "ic2:block/machines/side",
-        "active_south": "ic2:block/machines/i_furnace_active",
-        "active_up": "ic2:block/machines/stabilized",
-        "active_west": "ic2:block/machines/side",
-        "inactive_down": "ic2:block/machines/stabilized",
-        "inactive_east": "ic2:block/machines/side",
-        "inactive_north": "ic2:block/machines/side",
-        "inactive_south": "ic2:block/machines/i_furnace",
-        "inactive_up": "ic2:block/machines/stabilized",
-        "inactive_west": "ic2:block/machines/side"
+        "active_down": "ic2:block/common/stabilized",
+        "active_east": "ic2:block/common/side",
+        "active_north": "ic2:block/common/side",
+        "active_south": "ic2:block/machine/mv/induction_furnace/front_active",
+        "active_up": "ic2:block/common/stabilized",
+        "active_west": "ic2:block/common/side",
+        "inactive_down": "ic2:block/common/stabilized",
+        "inactive_east": "ic2:block/common/side",
+        "inactive_north": "ic2:block/common/side",
+        "inactive_south": "ic2:block/machine/mv/induction_furnace/front",
+        "inactive_up": "ic2:block/common/stabilized",
+        "inactive_west": "ic2:block/common/side"
 }

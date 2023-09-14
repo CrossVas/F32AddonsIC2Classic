@@ -1,14 +1,14 @@
 {
-        "active_down": "ic2:block/machines/bottom_chunkloader_active",
-        "active_east": "ic2:block/machines/chunkloader_active",
-        "active_north": "ic2:block/machines/chunkloader_active",
-        "active_south": "ic2:block/machines/chunkloader_active",
-        "active_up": "ic2:block/machines/top_chunkloader_active",
-        "active_west": "ic2:block/machines/chunkloader_active",
-        "inactive_down": "ic2:block/machines/bottom_chunkloader",
-        "inactive_east": "ic2:block/machines/chunkloader",
-        "inactive_north": "ic2:block/machines/chunkloader",
-        "inactive_south": "ic2:block/machines/chunkloader",
-        "inactive_up": "ic2:block/machines/top_chunkloader",
-        "inactive_west": "ic2:block/machines/chunkloader"
+        "active_down": "ic2:block/machine/mv/chunkloader/bottom_active",
+        "active_east": "ic2:block/machine/mv/chunkloader/side_active",
+        "active_north": "ic2:block/machine/mv/chunkloader/side_active",
+        "active_south": "ic2:block/machine/mv/chunkloader/side_active",
+        "active_up": "ic2:block/machine/mv/chunkloader/top_active",
+        "active_west": "ic2:block/machine/mv/chunkloader/side_active",
+        "inactive_down": "ic2:block/machine/mv/chunkloader/bottom",
+        "inactive_east": "ic2:block/machine/mv/chunkloader/side",
+        "inactive_north": "ic2:block/machine/mv/chunkloader/side",
+        "inactive_south": "ic2:block/machine/mv/chunkloader/side",
+        "inactive_up": "ic2:block/machine/mv/chunkloader/top",
+        "inactive_west": "ic2:block/machine/mv/chunkloader/side"
 }

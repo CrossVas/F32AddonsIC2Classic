@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/machines/bottom",
-	"active_east": "ic2:block/machines/side_rare_earth_extractor",
-	"active_north": "ic2:block/machines/side",
-	"active_south": "ic2:block/machines/rare_earth_extractor_active",
-	"active_up": "ic2:block/machines/top",
-	"active_west": "ic2:block/machines/side_rare_earth_extractor",
-	"inactive_down": "ic2:block/machines/bottom",
-	"inactive_east": "ic2:block/machines/side_empty",
-	"inactive_north": "ic2:block/machines/side",
-	"inactive_south": "ic2:block/machines/rare_earth_extractor",
-	"inactive_up": "ic2:block/machines/top",
-	"inactive_west": "ic2:block/machines/side_empty"
+	"active_down": "ic2:block/common/bottom",
+	"active_east": "ic2:block/machine/lv/rare_earth_extractor/side_active",
+	"active_north": "ic2:block/common/side",
+	"active_south": "ic2:block/machine/lv/rare_earth_extractor/front_active",
+	"active_up": "ic2:block/common/top",
+	"active_west": "ic2:block/machine/lv/rare_earth_extractor/side_active",
+	"inactive_down": "ic2:block/common/bottom",
+	"inactive_east": "ic2:block/common/side_empty",
+	"inactive_north": "ic2:block/common/side",
+	"inactive_south": "ic2:block/machine/lv/rare_earth_extractor/front",
+	"inactive_up": "ic2:block/common/top",
+	"inactive_west": "ic2:block/common/side_empty"
 }

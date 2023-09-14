@@ -1,14 +1,14 @@
 {
-        "active_down": "ic2:block/machines/stabilized",
-        "active_east": "ic2:block/machines/side_hyperclocked_pump_active",
-        "active_north": "ic2:block/machines/hyperclocked_pump_active",
-        "active_south": "ic2:block/machines/hyperclocked_pump_active",
-        "active_up": "ic2:block/machines/top_hyperclocked_pump_active",
-        "active_west": "ic2:block/machines/side_hyperclocked_pump_active",
-        "inactive_down": "ic2:block/machines/stabilized",
-        "inactive_east": "ic2:block/machines/side_hyperclocked_pump",
-        "inactive_north": "ic2:block/machines/hyperclocked_pump",
-        "inactive_south": "ic2:block/machines/hyperclocked_pump",
-        "inactive_up": "ic2:block/machines/top_hyperclocked_pump",
-        "inactive_west": "ic2:block/machines/side_hyperclocked_pump"
+        "active_down": "ic2:block/common/stabilized",
+        "active_east": "ic2:block/machine/hv/hyperclocked_pump/side_active",
+        "active_north": "ic2:block/machine/hv/hyperclocked_pump/front_active",
+        "active_south": "ic2:block/machine/hv/hyperclocked_pump/front_active",
+        "active_up": "ic2:block/machine/hv/hyperclocked_pump/top_active",
+        "active_west": "ic2:block/machine/hv/hyperclocked_pump/side_active",
+        "inactive_down": "ic2:block/common/stabilized",
+        "inactive_east": "ic2:block/machine/hv/hyperclocked_pump/side",
+        "inactive_north": "ic2:block/machine/hv/hyperclocked_pump/front",
+        "inactive_south": "ic2:block/machine/hv/hyperclocked_pump/front",
+        "inactive_up": "ic2:block/machine/hv/hyperclocked_pump/top",
+        "inactive_west": "ic2:block/machine/hv/hyperclocked_pump/side"
 }

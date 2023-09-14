@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/machines/bottom",
-	"active_east": "ic2:block/machines/crop_active",
-	"active_north": "ic2:block/machines/crop_active",
-	"active_south": "ic2:block/machines/crop_active",
-	"active_up": "ic2:block/machines/top_screen_active",
-	"active_west": "ic2:block/machines/crop_active",
-	"inactive_down": "ic2:block/machines/bottom",
-	"inactive_east": "ic2:block/machines/crop",
-	"inactive_north": "ic2:block/machines/crop",
-	"inactive_south": "ic2:block/machines/crop",
-	"inactive_up": "ic2:block/machines/top_screen",
-	"inactive_west": "ic2:block/machines/crop"
+	"active_down": "ic2:block/common/bottom",
+	"active_east": "ic2:block/machine/lv/simple_crop_library/side_active",
+	"active_north": "ic2:block/machine/lv/simple_crop_library/side_active",
+	"active_south": "ic2:block/machine/lv/simple_crop_library/side_active",
+	"active_up": "ic2:block/common/top_screen_active",
+	"active_west": "ic2:block/machine/lv/simple_crop_library/side_active",
+	"inactive_down": "ic2:block/common/bottom",
+	"inactive_east": "ic2:block/machine/lv/simple_crop_library/side",
+	"inactive_north": "ic2:block/machine/lv/simple_crop_library/side",
+	"inactive_south": "ic2:block/machine/lv/simple_crop_library/side",
+	"inactive_up": "ic2:block/common/top_screen",
+	"inactive_west": "ic2:block/machine/lv/simple_crop_library/side"
 }
