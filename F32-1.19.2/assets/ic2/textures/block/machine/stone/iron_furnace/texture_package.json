@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/generator/basic_steam_turbine/active_down",
-	"active_east": "ic2:block/machine/stone/iron_furnace/active_east",
-	"active_north": "ic2:block/machine/stone/iron_furnace/active_east",
-	"active_south": "ic2:block/machine/stone/iron_furnace/active_south",
-	"active_up": "ic2:block/machine/stone/iron_furnace/active_up",
-	"active_west": "ic2:block/machine/stone/iron_furnace/active_east",
-	"inactive_down": "ic2:block/electric/generator/basic_steam_turbine/active_down",
-	"inactive_east": "ic2:block/machine/stone/iron_furnace/active_east",
-	"inactive_north": "ic2:block/machine/stone/iron_furnace/active_east",
-	"inactive_south": "ic2:block/machine/stone/iron_furnace/inactive_south",
-	"inactive_up": "ic2:block/machine/stone/iron_furnace/active_up",
-	"inactive_west": "ic2:block/machine/stone/iron_furnace/active_east"
+	"active_down": "ic2:block/common/bottom_iron",
+	"active_east": "ic2:block/common/side_iron",
+	"active_north": "ic2:block/common/side_iron",
+	"active_south": "ic2:block/machine/stone/iron_furnace/front_active",
+	"active_up": "ic2:block/common/top_iron",
+	"active_west": "ic2:block/common/side_iron",
+	"inactive_down": "ic2:block/common/bottom_iron",
+	"inactive_east": "ic2:block/common/side_iron",
+	"inactive_north": "ic2:block/common/side_iron",
+	"inactive_south": "ic2:block/machine/stone/iron_furnace/front",
+	"inactive_up": "ic2:block/common/top_iron",
+	"inactive_west": "ic2:block/common/side_iron"
 }
