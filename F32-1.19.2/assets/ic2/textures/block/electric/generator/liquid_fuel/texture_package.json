@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/battery_station/mv/down",
-	"active_east": "ic2:block/electric/generator/liquid_fuel/active_east",
-	"active_north": "ic2:block/electric/generator/liquid_fuel/active_east",
-	"active_south": "ic2:block/electric/generator/liquid_fuel/active_south",
-	"active_up": "ic2:block/electric/energy_storage/mfe/up",
-	"active_west": "ic2:block/electric/generator/liquid_fuel/active_east",
-	"inactive_down": "ic2:block/electric/battery_station/mv/down",
-	"inactive_east": "ic2:block/electric/generator/liquid_fuel/inactive_east",
-	"inactive_north": "ic2:block/electric/generator/liquid_fuel/inactive_east",
-	"inactive_south": "ic2:block/electric/generator/liquid_fuel/inactive_south",
-	"inactive_up": "ic2:block/electric/energy_storage/mfe/up",
-	"inactive_west": "ic2:block/electric/generator/liquid_fuel/inactive_east"
+	"active_down": "ic2:block/machines/bottom",
+	"active_east": "ic2:block/electric/generator/liquid_fuel/side_active",
+	"active_north": "ic2:block/machines/side",
+	"active_south": "ic2:block/electric/generator/liquid_fuel/front_active",
+	"active_up": "ic2:block/machines/top",
+	"active_west": "ic2:block/electric/generator/liquid_fuel/side_active",
+	"inactive_down": "ic2:block/machines/bottom",
+	"inactive_east": "ic2:block/machines/side_empty",
+	"inactive_north": "ic2:block/machines/side",
+	"inactive_south": "ic2:block/electric/generator/liquid_fuel/front_inactive",
+	"inactive_up": "ic2:block/machines/top",
+	"inactive_west": "ic2:block/machines/side_empty"
 }

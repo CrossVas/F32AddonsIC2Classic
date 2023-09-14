@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/generator/slag/active_up",
-	"active_east": "ic2:block/electric/energy_storage/mfe/east",
-	"active_north": "ic2:block/electric/energy_storage/mfe/east",
-	"active_south": "ic2:block/electric/energy_storage/mfe/east",
-	"active_up": "ic2:block/electric/generator/hv_solar_panel/active_up",
-	"active_west": "ic2:block/electric/energy_storage/mfe/east",
-	"inactive_down": "ic2:block/electric/generator/slag/active_up",
-	"inactive_east": "ic2:block/electric/energy_storage/mfe/east",
-	"inactive_north": "ic2:block/electric/energy_storage/mfe/east",
-	"inactive_south": "ic2:block/electric/energy_storage/mfe/east",
-	"inactive_up": "ic2:block/electric/generator/hv_solar_panel/active_up",
-	"inactive_west": "ic2:block/electric/energy_storage/mfe/east"
+	"active_down": "ic2:block/machines/advanced",
+	"active_east": "ic2:block/machines/side",
+	"active_north": "ic2:block/machines/side",
+	"active_south": "ic2:block/machines/side",
+	"active_up": "ic2:block/machines/top_solar",
+	"active_west": "ic2:block/machines/side",
+	"inactive_down": "ic2:block/machines/advanced",
+	"inactive_east": "ic2:block/machines/side",
+	"inactive_north": "ic2:block/machines/side",
+	"inactive_south": "ic2:block/machines/side",
+	"inactive_up": "ic2:block/machines/top_solar",
+	"inactive_west": "ic2:block/machines/side"
 }

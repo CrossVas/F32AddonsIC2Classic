@@ -8,7 +8,7 @@
 	"end_left": "ic2:block/electric/generator/steam_tunnel/structure/end_left",
 	"end_right": "ic2:block/electric/generator/steam_tunnel/structure/end_right",
 	"end_top": "ic2:block/electric/generator/steam_tunnel/structure/end_top",
-	"full": "ic2:block/electric/generator/steam_tunnel/base/down",
+	"full": "ic2:block/machines/structure",
 	"side_bottom": "ic2:block/electric/generator/steam_tunnel/structure/side_bottom",
 	"side_left": "ic2:block/electric/generator/steam_tunnel/structure/side_left",
 	"side_right": "ic2:block/electric/generator/steam_tunnel/structure/side_right",

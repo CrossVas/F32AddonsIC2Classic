@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/generator/hv_water_mill/active_down",
-	"active_east": "ic2:block/electric/generator/steam_reactor/active_east",
-	"active_north": "ic2:block/electric/generator/steam_reactor/active_east",
-	"active_south": "ic2:block/electric/generator/steam_reactor/active_east",
-	"active_up": "ic2:block/electric/generator/steam_reactor_chamber/side",
-	"active_west": "ic2:block/electric/generator/steam_reactor/active_east",
-	"inactive_down": "ic2:block/electric/generator/hv_water_mill/active_down",
-	"inactive_east": "ic2:block/electric/generator/steam_reactor/inactive_east",
-	"inactive_north": "ic2:block/electric/generator/steam_reactor/inactive_east",
-	"inactive_south": "ic2:block/electric/generator/steam_reactor/inactive_east",
-	"inactive_up": "ic2:block/electric/generator/steam_reactor_chamber/side",
-	"inactive_west": "ic2:block/electric/generator/steam_reactor/inactive_east"
+	"active_down": "ic2:block/electric/generator/steam_reactor/bottom",
+	"active_east": "ic2:block/electric/generator/steam_reactor/side_active",
+	"active_north": "ic2:block/electric/generator/steam_reactor/side_active",
+	"active_south": "ic2:block/electric/generator/steam_reactor/side_active",
+	"active_up": "ic2:block/electric/generator/steam_reactor/top",
+	"active_west": "ic2:block/electric/generator/steam_reactor/side_active",
+	"inactive_down": "ic2:block/electric/generator/steam_reactor/bottom",
+	"inactive_east": "ic2:block/electric/generator/steam_reactor/side",
+	"inactive_north": "ic2:block/electric/generator/steam_reactor/side",
+	"inactive_south": "ic2:block/electric/generator/steam_reactor/side",
+	"inactive_up": "ic2:block/electric/generator/steam_reactor/top",
+	"inactive_west": "ic2:block/electric/generator/steam_reactor/side"
 }

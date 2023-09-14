@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/generator/mv_solar_panel/active_down",
-	"active_east": "ic2:block/electric/generator/mv_solar_panel/active_east",
-	"active_north": "ic2:block/electric/generator/mv_solar_panel/active_east",
-	"active_south": "ic2:block/electric/generator/mv_solar_panel/active_east",
-	"active_up": "ic2:block/electric/generator/hv_solar_panel/active_up",
-	"active_west": "ic2:block/electric/generator/mv_solar_panel/active_east",
-	"inactive_down": "ic2:block/electric/generator/mv_solar_panel/active_down",
-	"inactive_east": "ic2:block/electric/generator/mv_solar_panel/active_east",
-	"inactive_north": "ic2:block/electric/generator/mv_solar_panel/active_east",
-	"inactive_south": "ic2:block/electric/generator/mv_solar_panel/active_east",
-	"inactive_up": "ic2:block/electric/generator/hv_solar_panel/active_up",
-	"inactive_west": "ic2:block/electric/generator/mv_solar_panel/active_east"
+	"active_down": "ic2:block/electric/generator/mv_solar_panel/bottom",
+	"active_east": "ic2:block/electric/generator/mv_solar_panel/side",
+	"active_north": "ic2:block/electric/generator/mv_solar_panel/side",
+	"active_south": "ic2:block/electric/generator/mv_solar_panel/side",
+	"active_up": "ic2:block/machines/top_solar",
+	"active_west": "ic2:block/electric/generator/mv_solar_panel/side",
+	"inactive_down": "ic2:block/electric/generator/mv_solar_panel/bottom",
+	"inactive_east": "ic2:block/electric/generator/mv_solar_panel/side",
+	"inactive_north": "ic2:block/electric/generator/mv_solar_panel/side",
+	"inactive_south": "ic2:block/electric/generator/mv_solar_panel/side",
+	"inactive_up": "ic2:block/machines/top_solar",
+	"inactive_west": "ic2:block/electric/generator/mv_solar_panel/side"
 }

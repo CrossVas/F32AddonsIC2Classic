@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/battery_station/mv/down",
-	"active_east": "ic2:block/electric/generator/ocean/active_east",
-	"active_north": "ic2:block/electric/generator/ocean/active_north",
-	"active_south": "ic2:block/electric/generator/ocean/active_north",
-	"active_up": "ic2:block/electric/battery_station/mv/down",
-	"active_west": "ic2:block/electric/generator/ocean/active_east",
-	"inactive_down": "ic2:block/electric/battery_station/mv/down",
-	"inactive_east": "ic2:block/electric/energy_storage/mfe/east",
-	"inactive_north": "ic2:block/electric/generator/ocean/active_north",
-	"inactive_south": "ic2:block/electric/generator/ocean/active_north",
-	"inactive_up": "ic2:block/electric/battery_station/mv/down",
-	"inactive_west": "ic2:block/electric/energy_storage/mfe/east"
+	"active_down": "ic2:block/machines/bottom",
+	"active_east": "ic2:block/electric/generator/ocean/side_active",
+	"active_north": "ic2:block/electric/generator/ocean/front",
+	"active_south": "ic2:block/electric/generator/ocean/front",
+	"active_up": "ic2:block/machines/bottom",
+	"active_west": "ic2:block/electric/generator/ocean/side_active",
+	"inactive_down": "ic2:block/machines/bottom",
+	"inactive_east": "ic2:block/machines/bottom",
+	"inactive_north": "ic2:block/electric/generator/ocean/front",
+	"inactive_south": "ic2:block/electric/generator/ocean/front",
+	"inactive_up": "ic2:block/machines/bottom",
+	"inactive_west": "ic2:block/machines/bottom"
 }

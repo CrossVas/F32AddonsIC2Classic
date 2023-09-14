@@ -1,8 +1,8 @@
 {
-	"down": "ic2:block/electric/battery_station/mv/down",
-	"east": "ic2:block/electric/generator/windmill/east",
-	"north": "ic2:block/electric/generator/windmill/north",
-	"south": "ic2:block/electric/generator/windmill/south",
-	"up": "ic2:block/electric/energy_storage/mfe/up",
-	"west": "ic2:block/electric/generator/windmill/east"
+	"down": "ic2:block/machines/bottom",
+	"east": "ic2:block/electric/generator/windmill/side",
+	"north": "ic2:block/electric/generator/windmill/back",
+	"south": "ic2:block/electric/generator/windmill/front",
+	"up": "ic2:block/machines/top",
+	"west": "ic2:block/electric/generator/windmill/side"
 }
