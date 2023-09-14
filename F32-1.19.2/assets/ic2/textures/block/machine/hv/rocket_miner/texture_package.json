@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/machine/hv/rocket_miner/active_down",
-	"active_east": "ic2:block/machine/hv/rocket_miner/active_east",
-	"active_north": "ic2:block/machine/hv/rocket_miner/active_east",
-	"active_south": "ic2:block/machine/hv/rocket_miner/active_east",
-	"active_up": "ic2:block/machine/hv/rocket_miner/active_up",
-	"active_west": "ic2:block/machine/hv/rocket_miner/active_east",
-	"inactive_down": "ic2:block/machine/hv/rocket_miner/active_down",
-	"inactive_east": "ic2:block/machine/hv/rocket_miner/inactive_east",
-	"inactive_north": "ic2:block/machine/hv/rocket_miner/inactive_east",
-	"inactive_south": "ic2:block/machine/hv/rocket_miner/inactive_east",
-	"inactive_up": "ic2:block/machine/hv/rocket_miner/active_up",
-	"inactive_west": "ic2:block/machine/hv/rocket_miner/inactive_east"
+	"active_down": "ic2:block/machine/lv/miner/bottom",
+	"active_east": "ic2:block/machine/hv/rocket_miner/side_active",
+	"active_north": "ic2:block/machine/hv/rocket_miner/side_active",
+	"active_south": "ic2:block/machine/hv/rocket_miner/side_active",
+	"active_up": "ic2:block/machine/hv/rocket_miner/top",
+	"active_west": "ic2:block/machine/hv/rocket_miner/side_active",
+	"inactive_down": "ic2:block/machine/lv/miner/bottom",
+	"inactive_east": "ic2:block/machine/hv/rocket_miner/side",
+	"inactive_north": "ic2:block/machine/hv/rocket_miner/side",
+	"inactive_south": "ic2:block/machine/hv/rocket_miner/side",
+	"inactive_up": "ic2:block/machine/hv/rocket_miner/top",
+	"inactive_west": "ic2:block/machine/hv/rocket_miner/side"
 }

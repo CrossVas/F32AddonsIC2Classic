@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/machine/hv/teleporter/active_down",
-	"active_east": "ic2:block/machine/hv/teleporter/active_down",
-	"active_north": "ic2:block/electric/energy_storage/mfe/up",
-	"active_south": "ic2:block/machine/hv/teleporter/active_south",
-	"active_up": "ic2:block/machine/hv/teleporter/active_down",
-	"active_west": "ic2:block/machine/hv/teleporter/active_down",
-	"inactive_down": "ic2:block/machine/hv/teleporter/active_down",
-	"inactive_east": "ic2:block/machine/hv/teleporter/active_down",
-	"inactive_north": "ic2:block/electric/energy_storage/mfe/up",
-	"inactive_south": "ic2:block/machine/hv/teleporter/active_south",
-	"inactive_up": "ic2:block/machine/hv/teleporter/active_down",
-	"inactive_west": "ic2:block/machine/hv/teleporter/active_down"
+	"active_down": "ic2:block/common/tesla",
+	"active_east": "ic2:block/common/tesla",
+	"active_north": "ic2:block/common/bottom",
+	"active_south": "ic2:block/machine/hv/teleporter/top",
+	"active_up": "ic2:block/common/tesla",
+	"active_west": "ic2:block/common/tesla",
+	"inactive_down": "ic2:block/common/tesla",
+	"inactive_east": "ic2:block/common/tesla",
+	"inactive_north": "ic2:block/common/bottom",
+	"inactive_south": "ic2:block/machine/hv/teleporter/top",
+	"inactive_up": "ic2:block/common/tesla",
+	"inactive_west": "ic2:block/common/tesla"
 }

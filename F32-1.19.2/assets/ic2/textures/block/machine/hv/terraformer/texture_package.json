@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/battery_station/mv/down",
-	"active_east": "ic2:block/machine/hv/terraformer/active_east",
-	"active_north": "ic2:block/machine/hv/terraformer/active_east",
-	"active_south": "ic2:block/machine/hv/terraformer/active_east",
-	"active_up": "ic2:block/machine/hv/terraformer/active_up",
-	"active_west": "ic2:block/machine/hv/terraformer/active_east",
-	"inactive_down": "ic2:block/electric/battery_station/mv/down",
-	"inactive_east": "ic2:block/machine/hv/terraformer/active_east",
-	"inactive_north": "ic2:block/machine/hv/terraformer/active_east",
-	"inactive_south": "ic2:block/machine/hv/terraformer/active_east",
-	"inactive_up": "ic2:block/machine/hv/terraformer/inactive_up",
-	"inactive_west": "ic2:block/machine/hv/terraformer/active_east"
+	"active_down": "ic2:block/common/bottom",
+	"active_east": "ic2:block/machine/mv/crop_matron/side",
+	"active_north": "ic2:block/machine/mv/crop_matron/side",
+	"active_south": "ic2:block/machine/mv/crop_matron/side",
+	"active_up": "ic2:block/machine/hv/terraformer/top_active",
+	"active_west": "ic2:block/machine/mv/crop_matron/side",
+	"inactive_down": "ic2:block/common/bottom",
+	"inactive_east": "ic2:block/machine/mv/crop_matron/side",
+	"inactive_north": "ic2:block/machine/mv/crop_matron/side",
+	"inactive_south": "ic2:block/machine/mv/crop_matron/side",
+	"inactive_up": "ic2:block/machine/hv/terraformer/top",
+	"inactive_west": "ic2:block/machine/mv/crop_matron/side"
 }

@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/battery_station/mv/down",
-	"active_east": "ic2:block/electric/energy_storage/mfe/east",
-	"active_north": "ic2:block/electric/energy_storage/mfe/east",
-	"active_south": "ic2:block/machine/hv/uranium_enricher/active_south",
-	"active_up": "ic2:block/machine/hv/uranium_enricher/active_up",
-	"active_west": "ic2:block/electric/energy_storage/mfe/east",
-	"inactive_down": "ic2:block/electric/battery_station/mv/down",
-	"inactive_east": "ic2:block/electric/energy_storage/mfe/east",
-	"inactive_north": "ic2:block/electric/energy_storage/mfe/east",
-	"inactive_south": "ic2:block/machine/hv/uranium_enricher/inactive_south",
-	"inactive_up": "ic2:block/machine/hv/uranium_enricher/active_up",
-	"inactive_west": "ic2:block/electric/energy_storage/mfe/east"
+	"active_down": "ic2:block/common/bottom",
+	"active_east": "ic2:block/common/side",
+	"active_north": "ic2:block/common/side",
+	"active_south": "ic2:block/machine/hv/uranium_enricher/front_active",
+	"active_up": "ic2:block/common/advanced",
+	"active_west": "ic2:block/common/side",
+	"inactive_down": "ic2:block/common/bottom",
+	"inactive_east": "ic2:block/common/side",
+	"inactive_north": "ic2:block/common/side",
+	"inactive_south": "ic2:block/machine/hv/uranium_enricher/front",
+	"inactive_up": "ic2:block/common/advanced",
+	"inactive_west": "ic2:block/common/side"
 }
