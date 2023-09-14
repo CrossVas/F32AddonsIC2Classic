@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/energy_storage/esu/south",
-	"active_east": "ic2:block/electric/energy_storage/esu/south",
-	"active_north": "ic2:block/electric/energy_storage/esu/south",
-	"active_south": "ic2:block/electric/transformer/ev/active_south",
-	"active_up": "ic2:block/electric/energy_storage/esu/south",
-	"active_west": "ic2:block/electric/energy_storage/esu/south",
-	"inactive_down": "ic2:block/electric/energy_storage/esu/south",
-	"inactive_east": "ic2:block/electric/energy_storage/esu/south",
-	"inactive_north": "ic2:block/electric/energy_storage/esu/south",
-	"inactive_south": "ic2:block/electric/transformer/ev/active_south",
-	"inactive_up": "ic2:block/electric/energy_storage/esu/south",
-	"inactive_west": "ic2:block/electric/energy_storage/esu/south"
+	"active_down": "ic2:block/electric/transformer/ev/out_x1",
+	"active_east": "ic2:block/electric/transformer/ev/out_x1",
+	"active_north": "ic2:block/electric/transformer/ev/out_x1",
+	"active_south": "ic2:block/electric/transformer/ev/in_x3",
+	"active_up": "ic2:block/electric/transformer/ev/out_x1",
+	"active_west": "ic2:block/electric/transformer/ev/out_x1",
+	"inactive_down": "ic2:block/electric/transformer/ev/out_x1",
+	"inactive_east": "ic2:block/electric/transformer/ev/out_x1",
+	"inactive_north": "ic2:block/electric/transformer/ev/out_x1",
+	"inactive_south": "ic2:block/electric/transformer/ev/in_x3",
+	"inactive_up": "ic2:block/electric/transformer/ev/out_x1",
+	"inactive_west": "ic2:block/electric/transformer/ev/out_x1"
 }

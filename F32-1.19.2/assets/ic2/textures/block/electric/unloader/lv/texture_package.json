@@ -1,8 +1,8 @@
 {
-	"down": "ic2:block/electric/unloader/lv/down",
-	"east": "ic2:block/electric/unloader/lv/east",
-	"north": "ic2:block/electric/unloader/lv/east",
-	"south": "ic2:block/electric/loader/lv/south",
-	"up": "ic2:block/electric/unloader/lv/up",
-	"west": "ic2:block/electric/unloader/lv/east"
+	"down": "ic2:block/electric/unloader/lv/side",
+	"east": "ic2:block/electric/unloader/lv/side",
+	"north": "ic2:block/electric/unloader/lv/side",
+	"south": "ic2:block/electric/loader/lv/front",
+	"up": "ic2:block/electric/unloader/lv/side",
+	"west": "ic2:block/electric/unloader/lv/side"
 }

@@ -1,0 +1,8 @@
+{
+	"down": "ic2:block/electric/flux/hv/in",
+	"east": "ic2:block/electric/flux/hv/in",
+	"north": "ic2:block/electric/flux/hv/in",
+	"south": "ic2:block/electric/flux/hv/out",
+	"up": "ic2:block/electric/flux/hv/in",
+	"west": "ic2:block/electric/flux/hv/in"
+}

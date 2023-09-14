@@ -1,8 +1,8 @@
 {
-	"down": "ic2:block/electric/loader/mv/down",
-	"east": "ic2:block/electric/loader/mv/east",
-	"north": "ic2:block/electric/loader/mv/east",
-	"south": "ic2:block/electric/loader/mv/south",
-	"up": "ic2:block/electric/loader/mv/up",
-	"west": "ic2:block/electric/loader/mv/east"
+	"down": "ic2:block/electric/loader/mv/bottom",
+	"east": "ic2:block/electric/loader/mv/side",
+	"north": "ic2:block/electric/loader/mv/side",
+	"south": "ic2:block/electric/loader/mv/front",
+	"up": "ic2:block/electric/loader/mv/top",
+	"west": "ic2:block/electric/loader/mv/side"
 }

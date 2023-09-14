@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/electric/transformer/adjustable/active_down",
-	"active_east": "ic2:block/electric/transformer/adjustable/active_down",
-	"active_north": "ic2:block/electric/transformer/adjustable/active_down",
-	"active_south": "ic2:block/electric/transformer/adjustable/active_south",
-	"active_up": "ic2:block/electric/transformer/adjustable/active_down",
-	"active_west": "ic2:block/electric/transformer/adjustable/active_down",
-	"inactive_down": "ic2:block/electric/transformer/adjustable/active_down",
-	"inactive_east": "ic2:block/electric/transformer/adjustable/active_down",
-	"inactive_north": "ic2:block/electric/transformer/adjustable/active_down",
-	"inactive_south": "ic2:block/electric/transformer/adjustable/active_south",
-	"inactive_up": "ic2:block/electric/transformer/adjustable/active_down",
-	"inactive_west": "ic2:block/electric/transformer/adjustable/active_down"
+	"active_down": "ic2:block/electric/transformer/adjustable/in_x1",
+	"active_east": "ic2:block/electric/transformer/adjustable/in_x1",
+	"active_north": "ic2:block/electric/transformer/adjustable/in_x1",
+	"active_south": "ic2:block/electric/transformer/adjustable/out_x4",
+	"active_up": "ic2:block/electric/transformer/adjustable/in_x1",
+	"active_west": "ic2:block/electric/transformer/adjustable/in_x1",
+	"inactive_down": "ic2:block/electric/transformer/adjustable/in_x1",
+	"inactive_east": "ic2:block/electric/transformer/adjustable/in_x1",
+	"inactive_north": "ic2:block/electric/transformer/adjustable/in_x1",
+	"inactive_south": "ic2:block/electric/transformer/adjustable/out_x4",
+	"inactive_up": "ic2:block/electric/transformer/adjustable/in_x1",
+	"inactive_west": "ic2:block/electric/transformer/adjustable/in_x1"
 }

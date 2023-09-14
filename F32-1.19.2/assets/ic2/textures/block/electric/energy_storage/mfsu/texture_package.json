@@ -1,8 +1,8 @@
 {
-	"down": "ic2:block/electric/battery_station/hv/down",
-	"east": "ic2:block/electric/battery_station/hv/down",
-	"north": "ic2:block/electric/battery_station/hv/down",
-	"south": "ic2:block/electric/energy_storage/mfsu/south",
-	"up": "ic2:block/electric/battery_station/hv/down",
-	"west": "ic2:block/electric/battery_station/hv/down"
+	"down": "ic2:block/electric/energy_storage/mfsu/side",
+	"east": "ic2:block/electric/energy_storage/mfsu/side",
+	"north": "ic2:block/electric/energy_storage/mfsu/side",
+	"south": "ic2:block/electric/energy_storage/mfsu/front",
+	"up": "ic2:block/electric/energy_storage/mfsu/side",
+	"west": "ic2:block/electric/energy_storage/mfsu/side"
 }
