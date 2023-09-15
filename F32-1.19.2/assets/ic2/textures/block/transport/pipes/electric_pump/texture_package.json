@@ -2,7 +2,7 @@
 	"down": "ic2:block/transport/pipes/electric_pump/down",
 	"east": "ic2:block/transport/pipes/electric_pump/east",
 	"north": "ic2:block/transport/pipes/electric_pump/north",
-	"south": "ic2:block/electric/energy_storage/mfe/up",
+	"south": "ic2:block/common/top",
 	"up": "ic2:block/transport/pipes/electric_pump/up",
 	"west": "ic2:block/transport/pipes/electric_pump/west"
 }
