@@ -1,14 +1,14 @@
 {
-	"active_down": "ic2:block/machine/luv/teleporter_hub/active_down",
-	"active_east": "ic2:block/machine/luv/teleporter_hub/active_down",
-	"active_north": "ic2:block/machine/luv/teleporter_hub/active_down",
-	"active_south": "ic2:block/machine/luv/teleporter_hub/active_south",
-	"active_up": "ic2:block/machine/luv/teleporter_hub/active_down",
-	"active_west": "ic2:block/machine/luv/teleporter_hub/active_down",
-	"inactive_down": "ic2:block/machine/luv/teleporter_hub/active_down",
-	"inactive_east": "ic2:block/machine/luv/teleporter_hub/active_down",
-	"inactive_north": "ic2:block/machine/luv/teleporter_hub/active_down",
-	"inactive_south": "ic2:block/machine/luv/teleporter_hub/inactive_south",
-	"inactive_up": "ic2:block/machine/luv/teleporter_hub/active_down",
-	"inactive_west": "ic2:block/machine/luv/teleporter_hub/active_down"
+	"active_down": "ic2:block/machine/luv/teleporter_hub/side",
+	"active_east": "ic2:block/machine/luv/teleporter_hub/side",
+	"active_north": "ic2:block/machine/luv/teleporter_hub/side",
+	"active_south": "ic2:block/machine/luv/teleporter_hub/front_active",
+	"active_up": "ic2:block/machine/luv/teleporter_hub/side",
+	"active_west": "ic2:block/machine/luv/teleporter_hub/side",
+	"inactive_down": "ic2:block/machine/luv/teleporter_hub/side",
+	"inactive_east": "ic2:block/machine/luv/teleporter_hub/side",
+	"inactive_north": "ic2:block/machine/luv/teleporter_hub/side",
+	"inactive_south": "ic2:block/machine/luv/teleporter_hub/front",
+	"inactive_up": "ic2:block/machine/luv/teleporter_hub/side",
+	"inactive_west": "ic2:block/machine/luv/teleporter_hub/side"
 }
