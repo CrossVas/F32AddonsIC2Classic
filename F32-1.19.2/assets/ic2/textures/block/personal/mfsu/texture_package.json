@@ -1,8 +1,8 @@
 {
-	"down": "ic2:block/personal/mfsu/down",
-	"east": "ic2:block/personal/mfsu/down",
-	"north": "ic2:block/personal/mfsu/down",
-	"south": "ic2:block/personal/mfsu/south",
-	"up": "ic2:block/personal/mfsu/down",
-	"west": "ic2:block/personal/mfsu/down"
+	"down": "ic2:block/personal/mfsu/side",
+	"east": "ic2:block/personal/mfsu/side",
+	"north": "ic2:block/personal/mfsu/side",
+	"south": "ic2:block/personal/mfsu/front",
+	"up": "ic2:block/personal/mfsu/side",
+	"west": "ic2:block/personal/mfsu/side"
 }

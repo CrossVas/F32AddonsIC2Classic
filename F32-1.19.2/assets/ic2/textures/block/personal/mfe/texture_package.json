@@ -1,8 +1,8 @@
 {
-	"down": "ic2:block/personal/mfe/down",
-	"east": "ic2:block/personal/mfe/east",
-	"north": "ic2:block/personal/mfe/east",
-	"south": "ic2:block/personal/mfe/south",
-	"up": "ic2:block/personal/mfe/east",
-	"west": "ic2:block/personal/mfe/east"
+	"down": "ic2:block/personal/mfe/bottom",
+	"east": "ic2:block/personal/mfe/side",
+	"north": "ic2:block/personal/mfe/side",
+	"south": "ic2:block/personal/mfe/front",
+	"up": "ic2:block/personal/mfe/side",
+	"west": "ic2:block/personal/mfe/side"
 }
