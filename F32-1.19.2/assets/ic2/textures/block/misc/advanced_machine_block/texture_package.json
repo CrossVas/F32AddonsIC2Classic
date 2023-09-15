@@ -1,8 +1,8 @@
 {
-	"down": "ic2:block/electric/generator/slag/active_up",
-	"east": "ic2:block/electric/generator/slag/active_up",
-	"north": "ic2:block/electric/generator/slag/active_up",
-	"south": "ic2:block/electric/generator/slag/active_up",
-	"up": "ic2:block/electric/generator/slag/active_up",
-	"west": "ic2:block/electric/generator/slag/active_up"
+	"down": "ic2:block/common/advanced",
+	"east": "ic2:block/common/advanced",
+	"north": "ic2:block/common/advanced",
+	"south": "ic2:block/common/advanced",
+	"up": "ic2:block/common/advanced",
+	"west": "ic2:block/common/advanced"
 }
