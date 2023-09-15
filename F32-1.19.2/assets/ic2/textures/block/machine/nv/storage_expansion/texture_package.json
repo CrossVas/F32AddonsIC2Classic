@@ -3,6 +3,6 @@
 	"east": "ic2:block/machine/nv/storage_expansion/side",
 	"north": "ic2:block/machine/nv/storage_expansion/side",
 	"south": "ic2:block/machine/nv/storage_expansion/side",
-	"up": "ic2:block/machine/nv/buffer_storage_expansion/top",
+	"up": "ic2:block/machine/nv/storage_expansion/top",
 	"west": "ic2:block/machine/nv/storage_expansion/side"
 }
