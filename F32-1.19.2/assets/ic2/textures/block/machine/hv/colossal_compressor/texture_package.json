@@ -3,7 +3,7 @@
         "active_east": "ic2:block/common/stabilized",
         "active_north": "ic2:block/common/side",
         "active_south": "ic2:block/machine/lv/compressor/front_active",
-        "active_up": "ic2:block/machine/lv/compressor/top_active",
+        "active_up": "ic2:block/machine/lv/compressor/top",
         "active_west": "ic2:block/common/stabilized",
         "inactive_down": "ic2:block/common/bottom",
         "inactive_east": "ic2:block/common/stabilized",
