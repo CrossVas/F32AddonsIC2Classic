@@ -1,8 +1,3 @@
 {
-	"down": "ic2:block/common/advanced",
-	"east": "ic2:block/common/advanced",
-	"north": "ic2:block/common/advanced",
-	"south": "ic2:block/common/advanced",
-	"up": "ic2:block/common/advanced",
-	"west": "ic2:block/common/advanced"
+	"all": "ic2:block/common/advanced"
 }
