@@ -1,8 +1,8 @@
 {
 	"down": "ic2:block/electric/energy_storage/esu/side",
-	"east": "ic2:block/electric/energy_storage/esu/side",
+	"east": "ic2:block/electric/energy_storage/esu/side_90",
 	"north": "ic2:block/electric/energy_storage/esu/side",
 	"south": "ic2:block/electric/energy_storage/esu/front",
 	"up": "ic2:block/electric/energy_storage/esu/side",
-	"west": "ic2:block/electric/energy_storage/esu/side"
+	"west": "ic2:block/electric/energy_storage/esu/side_90"
 }
